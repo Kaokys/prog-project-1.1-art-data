@@ -145,9 +145,23 @@
       "action": "order_slip",
       "entity": "order",
       "item_id": "d08aba0fcc24ab2f4f2d49dd4877a469"
+    },
+    {
+      "id": "b228a2ad03d0157d460635d714676c1d",
+      "time": "2026-10-03T20:55:43.180387+00:00",
+      "actor": "นักสะสมตัวอย่าง",
+      "actor_id": "customer",
+      "action": "like_set",
+      "entity": "likes",
+      "item_id": "8bf1e80aefd6dbd6f042c0b581bde440"
     }
   ],
   "reviews": [],
-  "likes": [],
+  "likes": [
+    {
+      "art_id": "8bf1e80aefd6dbd6f042c0b581bde440",
+      "user_id": "customer"
+    }
+  ],
   "follows": []
 }
