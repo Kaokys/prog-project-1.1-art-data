@@ -169,7 +169,7 @@
       "id": "b78abd7b683a05f994240f8cf6eb5929",
       "artist_id": "blue",
       "status": "approved",
-      "deleted": false,
+      "deleted": true,
       "note": ""
     }
   ],
@@ -222,6 +222,14 @@
       "time": "2026-10-03T17:57:47.638421+00:00",
       "actor": "ผู้ดูแล SILLAPA",
       "action": "art_review",
+      "entity": "artwork",
+      "item_id": "b78abd7b683a05f994240f8cf6eb5929"
+    },
+    {
+      "id": "e9925c5f38d84a82ce651e8214dae21b",
+      "time": "2026-10-03T18:00:18.745586+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "action": "art_delete",
       "entity": "artwork",
       "item_id": "b78abd7b683a05f994240f8cf6eb5929"
     }
