@@ -639,7 +639,12 @@
       "item_id": "d1453bd1330a68f14dd2e9abdfbc692a"
     }
   ],
-  "login_attempts": {},
+  "login_attempts": {
+    "283d818402b046ceb99204e24c259068@demo.local": {
+      "count": 1,
+      "start": 1791057285
+    }
+  },
   "settings": {
     "poster": "/assets/art-1.jpg"
   }
