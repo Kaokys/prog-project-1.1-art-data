@@ -184,7 +184,7 @@
       "id": "12b7a3d18649c3efff279be1c598ef94",
       "artist_id": "blue",
       "status": "approved",
-      "deleted": false,
+      "deleted": true,
       "note": ""
     }
   ],
@@ -274,6 +274,14 @@
       "time": "2026-10-03T18:00:25.045130+00:00",
       "actor": "ผู้ดูแล SILLAPA",
       "action": "art_review",
+      "entity": "artwork",
+      "item_id": "12b7a3d18649c3efff279be1c598ef94"
+    },
+    {
+      "id": "0654a147fc9328effc8b818aae1f992a",
+      "time": "2026-10-03T18:00:28.519288+00:00",
+      "actor": "เบนจามินยาฮู",
+      "action": "art_delete",
       "entity": "artwork",
       "item_id": "12b7a3d18649c3efff279be1c598ef94"
     }
