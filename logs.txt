@@ -272,5 +272,14 @@
     "action": "user_create",
     "entity": "user",
     "item_id": "d1453bd1330a68f14dd2e9abdfbc692a"
+  },
+  {
+    "id": "9dc8eb1a9308ca61161c17be6e05e90a",
+    "time": "2026-10-03T19:54:42.855127+00:00",
+    "actor": "ผู้ดูแล SILLAPA",
+    "actor_id": "admin",
+    "action": "user_delete",
+    "entity": "user",
+    "item_id": "d1453bd1330a68f14dd2e9abdfbc692a"
   }
 ]
