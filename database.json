@@ -149,9 +149,19 @@
   "orders": [],
   "media": {},
   "categories": [
-    "งานศิลปะ"
+    "งานศิลปะ",
+    "Storage verification 1791046105"
   ],
-  "logs": [],
+  "logs": [
+    {
+      "id": "a679d4d2ff807849e4aeaf788fd20eee",
+      "time": "2026-10-03T16:48:25.956815+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "action": "category_create",
+      "entity": "category",
+      "item_id": "Storage verification 1791046105"
+    }
+  ],
   "login_attempts": {},
   "settings": {
     "poster": "/assets/art-1.jpg"
