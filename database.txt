@@ -69,6 +69,10 @@
     "46bf17a2bae5a9d1c4666966e2e4450e8ce4fe6bdef06350d4f6f4a3ff138022": {
       "user_id": "admin",
       "expires": 1793649232
+    },
+    "dfbe93cd4c9016a7ea2c88ff77d2bca59551c3367b2cf82f46a2f8217fede9b1": {
+      "user_id": "blue",
+      "expires": 1793649235
     }
   },
   "artworks": [
