@@ -13,7 +13,7 @@
     },
     {
       "id": "blue",
-      "email": "benjamin.blue@demo.local",
+      "email": "artist@demo.local",
       "name": "เบนจามินยาฮู",
       "role": "staff",
       "avatar": "/assets/blue.jpg",
@@ -276,6 +276,14 @@
       "action": "art_delete",
       "entity": "artwork",
       "item_id": "12b7a3d18649c3efff279be1c598ef94"
+    },
+    {
+      "id": "d94405c993b4955191ca26b5acfc6e7f",
+      "time": "2026-10-03T19:41:07.765842+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "action": "update",
+      "entity": "user",
+      "item_id": "blue"
     }
   ],
   "login_attempts": {
