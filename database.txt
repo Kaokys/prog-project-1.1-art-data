@@ -116,7 +116,7 @@
       "height": 60.0,
       "price": 12000,
       "image": "/assets/art-4.jpg",
-      "status": "approved",
+      "status": "reserved",
       "deleted": false,
       "credit": "CartoonNetworkLA",
       "source_url": "https://tenor.com/view/desconcertado-ben-ben10-parpadear-confundido-gif-24148949"
@@ -184,7 +184,42 @@
       "note": ""
     }
   ],
-  "orders": [],
+  "orders": [
+    {
+      "id": "e0b056ef7cb58115ccc41186731e11a6",
+      "key": "5fe377c1-28bc-4e02-9dcc-1be217fd1b9d",
+      "user_id": "customer",
+      "customer_name": "นักสะสมตัวอย่าง",
+      "items": [
+        {
+          "id": "art-4",
+          "title": "Ben 10 Confused",
+          "artist_id": "green",
+          "price": 12000,
+          "image": "/assets/art-4.jpg"
+        }
+      ],
+      "address": {
+        "name": "sirawich rachajan",
+        "phone": "0986058925",
+        "line": "fdfdff",
+        "district": "fdfdfd",
+        "province": "Roiet",
+        "postal": "45000"
+      },
+      "code": "",
+      "subtotal": 12000,
+      "discount": 0,
+      "shipping": 5000,
+      "tax": 0,
+      "total": 17000,
+      "status": "pending_payment",
+      "created": "2026-10-03T19:45:08.235552+00:00",
+      "slip": "",
+      "note": "",
+      "tracking": ""
+    }
+  ],
   "media": {
     "0fd7f8ae37ff3353cdc157fcad90ba95": {
       "owner": "blue",
@@ -288,6 +323,14 @@
       "action": "update",
       "entity": "user",
       "item_id": "blue"
+    },
+    {
+      "id": "5ee9075640d4c2df7708839578d5e7d1",
+      "time": "2026-10-03T19:45:08.235589+00:00",
+      "actor": "นักสะสมตัวอย่าง",
+      "action": "create",
+      "entity": "order",
+      "item_id": "e0b056ef7cb58115ccc41186731e11a6"
     }
   ],
   "login_attempts": {
