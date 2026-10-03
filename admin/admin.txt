@@ -13,5 +13,15 @@
   "purchases": [],
   "sales": [],
   "uploads": [],
-  "logs": []
+  "logs": [
+    {
+      "id": "649fa4e0f0feee4f022595f6e0d25d25",
+      "time": "2026-10-03T19:51:22.495203+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "art_review",
+      "entity": "artwork",
+      "item_id": "5d38e0858eef9ba459060a763fd192c5"
+    }
+  ]
 }

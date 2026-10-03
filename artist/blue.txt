@@ -99,8 +99,9 @@
       "image": "/api?action=media&id=5f0ff8e1e75c32926f8abed8d2e6b6b1",
       "id": "5d38e0858eef9ba459060a763fd192c5",
       "artist_id": "blue",
-      "status": "pending",
-      "deleted": false
+      "status": "approved",
+      "deleted": false,
+      "note": ""
     }
   ],
   "purchases": [],
