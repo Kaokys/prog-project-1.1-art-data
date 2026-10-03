@@ -42,12 +42,7 @@
       "active": true
     }
   ],
-  "sessions": {
-    "96d97759e788b4d312cb1397e97de42483aeb6e97cbfca72b477aebfb610e5e0": {
-      "user_id": "admin",
-      "expires": 1793638104
-    }
-  },
+  "sessions": {},
   "artworks": [
     {
       "id": "art-1",
