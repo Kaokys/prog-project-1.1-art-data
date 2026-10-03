@@ -278,7 +278,12 @@
       "item_id": "12b7a3d18649c3efff279be1c598ef94"
     }
   ],
-  "login_attempts": {},
+  "login_attempts": {
+    "artist@demo.local": {
+      "count": 1,
+      "start": 1791056340
+    }
+  },
   "settings": {
     "poster": "/assets/art-1.jpg"
   }
