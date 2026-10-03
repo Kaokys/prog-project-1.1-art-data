@@ -136,8 +136,9 @@
       ],
       "id": "8bf1e80aefd6dbd6f042c0b581bde440",
       "artist_id": "blue",
-      "status": "pending",
-      "deleted": false
+      "status": "approved",
+      "deleted": false,
+      "note": ""
     }
   ],
   "purchases": [],
