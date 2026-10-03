@@ -136,7 +136,7 @@
       ],
       "id": "8bf1e80aefd6dbd6f042c0b581bde440",
       "artist_id": "blue",
-      "status": "approved",
+      "status": "reserved",
       "deleted": false,
       "note": ""
     }
@@ -188,6 +188,41 @@
       "slip": "/api?action=media&id=dd24358b67809ddb7560519834f9d2b8",
       "note": "Demo unreadable slip",
       "tracking": "DEMO-TEXT-123"
+    },
+    {
+      "id": "3fbb1ece700f4a631803c1ba129adc6e",
+      "key": "a4866aee0f124c9fa4d5bf4f82503988",
+      "user_id": "customer",
+      "customer_name": "นักสะสมตัวอย่าง",
+      "items": [
+        {
+          "id": "8bf1e80aefd6dbd6f042c0b581bde440",
+          "title": "Blue Meme — Digital Edition",
+          "artist_id": "blue",
+          "price": 9999,
+          "image": "/api?action=media&id=82608ab90ca9d13d313e1f84842e9cb5",
+          "original": "/api?action=media&id=6a7bdde252703b8bf36f9af46a347367"
+        }
+      ],
+      "address": {
+        "name": "Demo Buyer",
+        "phone": "0812345678",
+        "line": "123 Demo Street",
+        "district": "เมือง",
+        "province": "ขอนแก่น",
+        "postal": "40000"
+      },
+      "code": "ART10",
+      "subtotal": 9999,
+      "discount": 1000,
+      "shipping": 5000,
+      "tax": 0,
+      "total": 13999,
+      "status": "pending_payment",
+      "created": "2026-10-03T20:55:52.598197+00:00",
+      "slip": "",
+      "note": "",
+      "tracking": ""
     }
   ],
   "uploads": [

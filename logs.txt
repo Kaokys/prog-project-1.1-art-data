@@ -393,5 +393,14 @@
     "action": "follow_set",
     "entity": "follows",
     "item_id": "blue"
+  },
+  {
+    "id": "8295abe6fe991348715ad551580f9735",
+    "time": "2026-10-03T20:55:52.598233+00:00",
+    "actor": "นักสะสมตัวอย่าง",
+    "actor_id": "customer",
+    "action": "create",
+    "entity": "order",
+    "item_id": "3fbb1ece700f4a631803c1ba129adc6e"
   }
 ]
