@@ -142,6 +142,14 @@
       "mime": "image/png",
       "id": "dd24358b67809ddb7560519834f9d2b8",
       "file": "media/dd24358b67809ddb7560519834f9d2b8"
+    },
+    {
+      "owner": "customer",
+      "kind": "slip",
+      "mime": "image/jpeg",
+      "watermarked": false,
+      "id": "76e6c5c20ba968938c02eb93cc1f2cd6",
+      "file": "media/76e6c5c20ba968938c02eb93cc1f2cd6"
     }
   ],
   "logs": [
@@ -225,6 +233,15 @@
       "action": "create",
       "entity": "order",
       "item_id": "3fbb1ece700f4a631803c1ba129adc6e"
+    },
+    {
+      "id": "0e700f2fb992a4948cab92ec33ad411f",
+      "time": "2026-10-03T20:55:57.173799+00:00",
+      "actor": "นักสะสมตัวอย่าง",
+      "actor_id": "customer",
+      "action": "upload",
+      "entity": "media",
+      "item_id": "76e6c5c20ba968938c02eb93cc1f2cd6"
     }
   ],
   "reviews": [],
