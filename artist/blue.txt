@@ -3,7 +3,7 @@
     "id": "blue",
     "email": "artist@demo.local",
     "name": "เบนจามินยาฮู",
-    "role": "staff",
+    "role": "artist",
     "avatar": "/assets/blue.jpg",
     "bio": "ศิลปินมีม — โปรเจกต์สาธิต",
     "active": true,
@@ -248,6 +248,17 @@
       "action": "art_update",
       "entity": "artwork",
       "item_id": "29d81144070005499bbac9d4b01b3381"
+    },
+    {
+      "id": "role-artist-blue",
+      "time": "2026-10-03T20:10:58Z",
+      "actor": "ระบบ",
+      "actor_id": "system",
+      "action": "role_migrate",
+      "entity": "user",
+      "item_id": "blue",
+      "before": "staff",
+      "after": "artist"
     }
   ]
 }

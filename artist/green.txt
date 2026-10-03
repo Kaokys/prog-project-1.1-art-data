@@ -3,7 +3,7 @@
     "id": "green",
     "email": "benjamin.green@demo.local",
     "name": "เบนจามินเทนนอสัน",
-    "role": "staff",
+    "role": "artist",
     "avatar": "/assets/green.jpg",
     "bio": "ศิลปินมีม — โปรเจกต์สาธิต",
     "active": true,
@@ -97,5 +97,17 @@
     }
   ],
   "uploads": [],
-  "logs": []
+  "logs": [
+    {
+      "id": "role-artist-green",
+      "time": "2026-10-03T20:10:58Z",
+      "actor": "ระบบ",
+      "actor_id": "system",
+      "action": "role_migrate",
+      "entity": "user",
+      "item_id": "green",
+      "before": "staff",
+      "after": "artist"
+    }
+  ]
 }

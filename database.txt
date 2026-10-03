@@ -15,7 +15,7 @@
       "id": "blue",
       "email": "artist@demo.local",
       "name": "เบนจามินยาฮู",
-      "role": "staff",
+      "role": "artist",
       "avatar": "/assets/blue.jpg",
       "bio": "ศิลปินมีม — โปรเจกต์สาธิต",
       "password": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998",
@@ -25,7 +25,7 @@
       "id": "green",
       "email": "benjamin.green@demo.local",
       "name": "เบนจามินเทนนอสัน",
-      "role": "staff",
+      "role": "artist",
       "avatar": "/assets/green.jpg",
       "bio": "ศิลปินมีม — โปรเจกต์สาธิต",
       "password": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998",
@@ -629,6 +629,28 @@
       "action": "user_delete",
       "entity": "user",
       "item_id": "d1453bd1330a68f14dd2e9abdfbc692a"
+    },
+    {
+      "id": "role-artist-blue",
+      "time": "2026-10-03T20:10:58Z",
+      "actor": "ระบบ",
+      "actor_id": "system",
+      "action": "role_migrate",
+      "entity": "user",
+      "item_id": "blue",
+      "before": "staff",
+      "after": "artist"
+    },
+    {
+      "id": "role-artist-green",
+      "time": "2026-10-03T20:10:58Z",
+      "actor": "ระบบ",
+      "actor_id": "system",
+      "action": "role_migrate",
+      "entity": "user",
+      "item_id": "green",
+      "before": "staff",
+      "after": "artist"
     }
   ],
   "login_attempts": {

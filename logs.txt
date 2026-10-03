@@ -281,5 +281,27 @@
     "action": "user_delete",
     "entity": "user",
     "item_id": "d1453bd1330a68f14dd2e9abdfbc692a"
+  },
+  {
+    "id": "role-artist-blue",
+    "time": "2026-10-03T20:10:58Z",
+    "actor": "ระบบ",
+    "actor_id": "system",
+    "action": "role_migrate",
+    "entity": "user",
+    "item_id": "blue",
+    "before": "staff",
+    "after": "artist"
+  },
+  {
+    "id": "role-artist-green",
+    "time": "2026-10-03T20:10:58Z",
+    "actor": "ระบบ",
+    "actor_id": "system",
+    "action": "role_migrate",
+    "entity": "user",
+    "item_id": "green",
+    "before": "staff",
+    "after": "artist"
   }
 ]
