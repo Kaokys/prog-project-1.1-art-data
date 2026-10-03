@@ -179,6 +179,11 @@
       "owner": "blue",
       "kind": "art",
       "mime": "image/png"
+    },
+    "71c95518d3f3b5714d752f0cc48cf901": {
+      "owner": "blue",
+      "kind": "art",
+      "mime": "image/png"
     }
   },
   "categories": [
@@ -232,6 +237,14 @@
       "action": "art_delete",
       "entity": "artwork",
       "item_id": "b78abd7b683a05f994240f8cf6eb5929"
+    },
+    {
+      "id": "cb625af20e2dd43695439bfb0512659d",
+      "time": "2026-10-03T18:00:21.887575+00:00",
+      "actor": "เบนจามินยาฮู",
+      "action": "upload",
+      "entity": "media",
+      "item_id": "71c95518d3f3b5714d752f0cc48cf901"
     }
   ],
   "login_attempts": {},
