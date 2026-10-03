@@ -119,7 +119,7 @@
       "shipping": 5000,
       "tax": 0,
       "total": 13999,
-      "status": "shipped",
+      "status": "completed",
       "created": "2026-10-03T20:55:52.598197+00:00",
       "slip": "/api?action=media&id=76e6c5c20ba968938c02eb93cc1f2cd6",
       "note": "",
