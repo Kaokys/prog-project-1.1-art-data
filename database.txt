@@ -171,6 +171,20 @@
       "status": "approved",
       "deleted": true,
       "note": ""
+    },
+    {
+      "title": "GitHub text persistence test",
+      "description": "A one-pixel classroom test",
+      "category": "งานศิลปะ",
+      "technique": "Digital",
+      "width": 1.0,
+      "height": 1.0,
+      "price": 100,
+      "image": "/api?action=media&id=71c95518d3f3b5714d752f0cc48cf901",
+      "id": "12b7a3d18649c3efff279be1c598ef94",
+      "artist_id": "blue",
+      "status": "pending",
+      "deleted": false
     }
   ],
   "orders": [],
@@ -245,6 +259,14 @@
       "action": "upload",
       "entity": "media",
       "item_id": "71c95518d3f3b5714d752f0cc48cf901"
+    },
+    {
+      "id": "1cc8df53a72cd4a0fa0c613bf22ac24a",
+      "time": "2026-10-03T18:00:23.407203+00:00",
+      "actor": "เบนจามินยาฮู",
+      "action": "art_create",
+      "entity": "artwork",
+      "item_id": "12b7a3d18649c3efff279be1c598ef94"
     }
   ],
   "login_attempts": {},
