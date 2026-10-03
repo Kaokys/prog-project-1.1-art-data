@@ -227,5 +227,14 @@
     "action": "order_status",
     "entity": "order",
     "item_id": "d08aba0fcc24ab2f4f2d49dd4877a469"
+  },
+  {
+    "id": "37b5e90cc87f96b9ce48054c41ea62db",
+    "time": "2026-10-03T19:54:28.610469+00:00",
+    "actor": "นักสะสมตัวอย่าง",
+    "actor_id": "customer",
+    "action": "order_slip",
+    "entity": "order",
+    "item_id": "d08aba0fcc24ab2f4f2d49dd4877a469"
   }
 ]
