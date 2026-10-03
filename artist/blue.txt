@@ -114,13 +114,48 @@
       "image": "/api?action=media&id=c7348880e1e69a7455baeaafeda96b41",
       "id": "29d81144070005499bbac9d4b01b3381",
       "artist_id": "blue",
-      "status": "approved",
+      "status": "reserved",
       "deleted": false,
       "note": ""
     }
   ],
   "purchases": [],
-  "sales": [],
+  "sales": [
+    {
+      "id": "d08aba0fcc24ab2f4f2d49dd4877a469",
+      "key": "9cdc45c93e8940ad8cfae0d218f90792",
+      "user_id": "customer",
+      "customer_name": "นักสะสมตัวอย่าง",
+      "items": [
+        {
+          "id": "29d81144070005499bbac9d4b01b3381",
+          "title": "Demo approval and payment test",
+          "artist_id": "blue",
+          "price": 9999,
+          "image": "/api?action=media&id=c7348880e1e69a7455baeaafeda96b41"
+        }
+      ],
+      "address": {
+        "name": "Demo Buyer",
+        "phone": "0812345678",
+        "line": "123 Demo Street",
+        "district": "เมือง",
+        "province": "ขอนแก่น",
+        "postal": "40000"
+      },
+      "code": "ART10",
+      "subtotal": 9999,
+      "discount": 1000,
+      "shipping": 5000,
+      "tax": 0,
+      "total": 13999,
+      "status": "pending_payment",
+      "created": "2026-10-03T19:54:16.975148+00:00",
+      "slip": "",
+      "note": "",
+      "tracking": ""
+    }
+  ],
   "uploads": [
     {
       "owner": "blue",
