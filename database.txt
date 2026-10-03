@@ -148,6 +148,20 @@
       "deleted": false,
       "credit": "CartoonNetworkLA",
       "source_url": "https://tenor.com/es-419/view/huh-gwen-tennyson-ben10-what-confused-gif-16313460"
+    },
+    {
+      "title": "GitHub text persistence test",
+      "description": "A one-pixel classroom test",
+      "category": "งานศิลปะ",
+      "technique": "Digital",
+      "width": 1.0,
+      "height": 1.0,
+      "price": 100,
+      "image": "/api?action=media&id=0fd7f8ae37ff3353cdc157fcad90ba95",
+      "id": "b78abd7b683a05f994240f8cf6eb5929",
+      "artist_id": "blue",
+      "status": "pending",
+      "deleted": false
     }
   ],
   "orders": [],
@@ -185,6 +199,14 @@
       "action": "upload",
       "entity": "media",
       "item_id": "0fd7f8ae37ff3353cdc157fcad90ba95"
+    },
+    {
+      "id": "e0fc7230043942a2b81392b62d818599",
+      "time": "2026-10-03T17:57:46.265415+00:00",
+      "actor": "เบนจามินยาฮู",
+      "action": "art_create",
+      "entity": "artwork",
+      "item_id": "b78abd7b683a05f994240f8cf6eb5929"
     }
   ],
   "login_attempts": {},
