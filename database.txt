@@ -183,8 +183,9 @@
       "image": "/api?action=media&id=71c95518d3f3b5714d752f0cc48cf901",
       "id": "12b7a3d18649c3efff279be1c598ef94",
       "artist_id": "blue",
-      "status": "pending",
-      "deleted": false
+      "status": "approved",
+      "deleted": false,
+      "note": ""
     }
   ],
   "orders": [],
@@ -265,6 +266,14 @@
       "time": "2026-10-03T18:00:23.407203+00:00",
       "actor": "เบนจามินยาฮู",
       "action": "art_create",
+      "entity": "artwork",
+      "item_id": "12b7a3d18649c3efff279be1c598ef94"
+    },
+    {
+      "id": "43c9f5a26b47ea62e405e547c8b01f09",
+      "time": "2026-10-03T18:00:25.045130+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "action": "art_review",
       "entity": "artwork",
       "item_id": "12b7a3d18649c3efff279be1c598ef94"
     }
