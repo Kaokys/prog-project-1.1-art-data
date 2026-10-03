@@ -102,6 +102,20 @@
       "status": "approved",
       "deleted": true,
       "note": ""
+    },
+    {
+      "title": "Demo approval and payment test",
+      "description": "Disposable classroom workflow verification",
+      "category": "งานศิลปะ",
+      "technique": "Digital",
+      "width": 1.0,
+      "height": 1.0,
+      "price": 9999,
+      "image": "/api?action=media&id=c7348880e1e69a7455baeaafeda96b41",
+      "id": "29d81144070005499bbac9d4b01b3381",
+      "artist_id": "blue",
+      "status": "pending",
+      "deleted": false
     }
   ],
   "purchases": [],
@@ -180,6 +194,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "c7348880e1e69a7455baeaafeda96b41"
+    },
+    {
+      "id": "c27bc5766e9f44f269cc1952962f4503",
+      "time": "2026-10-03T19:54:08.008423+00:00",
+      "actor": "เบนจามินยาฮู",
+      "actor_id": "blue",
+      "action": "art_create",
+      "entity": "artwork",
+      "item_id": "29d81144070005499bbac9d4b01b3381"
     }
   ]
 }
