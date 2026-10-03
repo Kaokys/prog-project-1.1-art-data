@@ -300,10 +300,10 @@
       "shipping": 5000,
       "tax": 0,
       "total": 13999,
-      "status": "payment_review",
+      "status": "pending_payment",
       "created": "2026-10-03T19:54:16.975148+00:00",
-      "slip": "/api?action=media&id=dd24358b67809ddb7560519834f9d2b8",
-      "note": "",
+      "slip": "",
+      "note": "Demo unreadable slip",
       "tracking": ""
     }
   ],
@@ -560,6 +560,15 @@
       "actor": "นักสะสมตัวอย่าง",
       "actor_id": "customer",
       "action": "order_slip",
+      "entity": "order",
+      "item_id": "d08aba0fcc24ab2f4f2d49dd4877a469"
+    },
+    {
+      "id": "66d6def4dccdd48d2a492132ba461e24",
+      "time": "2026-10-03T19:54:26.634979+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "order_status",
       "entity": "order",
       "item_id": "d08aba0fcc24ab2f4f2d49dd4877a469"
     }
