@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "users": [
+    {
+      "id": "admin",
+      "email": "admin@demo.local",
+      "name": "ผู้ดูแล SILLAPA",
+      "role": "admin",
+      "avatar": "",
+      "bio": "",
+      "password": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998",
+      "active": true
+    },
+    {
+      "id": "blue",
+      "email": "benjamin.blue@demo.local",
+      "name": "เบนจามินยาฮู",
+      "role": "staff",
+      "avatar": "/assets/blue.jpg",
+      "bio": "ศิลปินมีม — โปรเจกต์สาธิต",
+      "password": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998",
+      "active": true
+    },
+    {
+      "id": "green",
+      "email": "benjamin.green@demo.local",
+      "name": "เบนจามินเทนนอสัน",
+      "role": "staff",
+      "avatar": "/assets/green.jpg",
+      "bio": "ศิลปินมีม — โปรเจกต์สาธิต",
+      "password": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998",
+      "active": true
+    },
+    {
+      "id": "customer",
+      "email": "customer@demo.local",
+      "name": "นักสะสมตัวอย่าง",
+      "role": "customer",
+      "avatar": "",
+      "bio": "",
+      "password": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998",
+      "active": true
+    }
+  ],
+  "sessions": {},
+  "artworks": [
+    {
+      "id": "art-1",
+      "artist_id": "blue",
+      "title": "Benjamin Approves",
+      "description": "ผลงานมีมสำหรับสาธิตระบบซื้อขายในชั้นเรียน ไม่ใช่สินค้าจริง",
+      "category": "งานศิลปะ",
+      "technique": "ภาพนิ่งจาก GIF",
+      "width": 60.0,
+      "height": 60.0,
+      "price": 3000,
+      "image": "/assets/art-1.jpg",
+      "status": "approved",
+      "deleted": false,
+      "credit": "TheBigBlue892",
+      "source_url": "https://tenor.com/view/benjamin-netanyahu-approved-gif-17723057525056256264"
+    },
+    {
+      "id": "art-2",
+      "artist_id": "green",
+      "title": "Ben 10 Stare",
+      "description": "ผลงานมีมสำหรับสาธิตระบบซื้อขายในชั้นเรียน ไม่ใช่สินค้าจริง",
+      "category": "งานศิลปะ",
+      "technique": "ภาพนิ่งจาก GIF",
+      "width": 60.0,
+      "height": 60.0,
+      "price": 6000,
+      "image": "/assets/art-2.jpg",
+      "status": "approved",
+      "deleted": false,
+      "credit": "Rellxtra",
+      "source_url": "https://tenor.com/vi/view/ben-10-ben-10-stare-gif-15409871389790827857"
+    },
+    {
+      "id": "art-3",
+      "artist_id": "blue",
+      "title": "Big Yahu Dance",
+      "description": "ผลงานมีมสำหรับสาธิตระบบซื้อขายในชั้นเรียน ไม่ใช่สินค้าจริง",
+      "category": "งานศิลปะ",
+      "technique": "ภาพนิ่งจาก GIF",
+      "width": 60.0,
+      "height": 60.0,
+      "price": 9000,
+      "image": "/assets/art-3.jpg",
+      "status": "approved",
+      "deleted": false,
+      "credit": "omamnz",
+      "source_url": "https://tenor.com/view/benjamin-netanyahu-dance-benjamin-netanyahu-dance-gif-17830850143863215782"
+    },
+    {
+      "id": "art-4",
+      "artist_id": "green",
+      "title": "Ben 10 Confused",
+      "description": "ผลงานมีมสำหรับสาธิตระบบซื้อขายในชั้นเรียน ไม่ใช่สินค้าจริง",
+      "category": "งานศิลปะ",
+      "technique": "ภาพนิ่งจาก GIF",
+      "width": 60.0,
+      "height": 60.0,
+      "price": 12000,
+      "image": "/assets/art-4.jpg",
+      "status": "approved",
+      "deleted": false,
+      "credit": "CartoonNetworkLA",
+      "source_url": "https://tenor.com/view/desconcertado-ben-ben10-parpadear-confundido-gif-24148949"
+    },
+    {
+      "id": "art-5",
+      "artist_id": "blue",
+      "title": "Tel Aviv Impressed",
+      "description": "ผลงานมีมสำหรับสาธิตระบบซื้อขายในชั้นเรียน ไม่ใช่สินค้าจริง",
+      "category": "งานศิลปะ",
+      "technique": "ภาพนิ่งจาก GIF",
+      "width": 60.0,
+      "height": 60.0,
+      "price": 15000,
+      "image": "/assets/art-5.jpg",
+      "status": "approved",
+      "deleted": false,
+      "credit": "WiiGalaxy",
+      "source_url": "https://tenor.com/view/big-yahu-tel-aviv-impressed-netanyahu-israel-gif-13606388048953703900"
+    },
+    {
+      "id": "art-6",
+      "artist_id": "green",
+      "title": "Gwen Huh?",
+      "description": "ผลงานมีมสำหรับสาธิตระบบซื้อขายในชั้นเรียน ไม่ใช่สินค้าจริง",
+      "category": "งานศิลปะ",
+      "technique": "ภาพนิ่งจาก GIF",
+      "width": 60.0,
+      "height": 60.0,
+      "price": 18000,
+      "image": "/assets/art-6.jpg",
+      "status": "approved",
+      "deleted": false,
+      "credit": "CartoonNetworkLA",
+      "source_url": "https://tenor.com/es-419/view/huh-gwen-tennyson-ben10-what-confused-gif-16313460"
+    }
+  ],
+  "orders": [],
+  "media": {},
+  "categories": [
+    "งานศิลปะ"
+  ],
+  "logs": [
+    {
+      "id": "a679d4d2ff807849e4aeaf788fd20eee",
+      "time": "2026-10-03T16:48:25.956815+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "action": "category_create",
+      "entity": "category",
+      "item_id": "Storage verification 1791046105"
+    },
+    {
+      "id": "a0152bd76bdb9d22e3ed587215bd1f6e",
+      "time": "2026-10-03T16:48:27.894638+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "action": "category_delete",
+      "entity": "category",
+      "item_id": "Storage verification 1791046105"
+    }
+  ],
+  "login_attempts": {},
+  "settings": {
+    "poster": "/assets/art-1.jpg"
+  }
+}
