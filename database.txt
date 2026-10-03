@@ -904,6 +904,15 @@
       "action": "review_save",
       "entity": "artwork",
       "item_id": "8bf1e80aefd6dbd6f042c0b581bde440"
+    },
+    {
+      "id": "59b73c19ea458c8121e09f0d1076da1b",
+      "time": "2026-10-03T20:56:10.635957+00:00",
+      "actor": "นักสะสมตัวอย่าง",
+      "actor_id": "customer",
+      "action": "review_save",
+      "entity": "artwork",
+      "item_id": "8bf1e80aefd6dbd6f042c0b581bde440"
     }
   ],
   "login_attempts": {
@@ -931,9 +940,9 @@
     {
       "art_id": "8bf1e80aefd6dbd6f042c0b581bde440",
       "user_id": "customer",
-      "rating": 5,
+      "rating": 4,
       "comment": "ภาพตัวอย่างมีลายน้ำ ดาวน์โหลดต้นฉบับได้ครบ",
-      "time": "2026-10-03T20:56:08.550977+00:00"
+      "time": "2026-10-03T20:56:10.635926+00:00"
     }
   ]
 }

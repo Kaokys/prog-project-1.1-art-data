@@ -456,5 +456,14 @@
     "action": "review_save",
     "entity": "artwork",
     "item_id": "8bf1e80aefd6dbd6f042c0b581bde440"
+  },
+  {
+    "id": "59b73c19ea458c8121e09f0d1076da1b",
+    "time": "2026-10-03T20:56:10.635957+00:00",
+    "actor": "นักสะสมตัวอย่าง",
+    "actor_id": "customer",
+    "action": "review_save",
+    "entity": "artwork",
+    "item_id": "8bf1e80aefd6dbd6f042c0b581bde440"
   }
 ]
