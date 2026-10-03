@@ -149,8 +149,7 @@
   "orders": [],
   "media": {},
   "categories": [
-    "งานศิลปะ",
-    "Storage verification 1791046105"
+    "งานศิลปะ"
   ],
   "logs": [
     {
@@ -158,6 +157,14 @@
       "time": "2026-10-03T16:48:25.956815+00:00",
       "actor": "ผู้ดูแล SILLAPA",
       "action": "category_create",
+      "entity": "category",
+      "item_id": "Storage verification 1791046105"
+    },
+    {
+      "id": "a0152bd76bdb9d22e3ed587215bd1f6e",
+      "time": "2026-10-03T16:48:27.894638+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "action": "category_delete",
       "entity": "category",
       "item_id": "Storage verification 1791046105"
     }
