@@ -447,5 +447,14 @@
     "action": "order_status",
     "entity": "order",
     "item_id": "3fbb1ece700f4a631803c1ba129adc6e"
+  },
+  {
+    "id": "e60d1ed041f6cd96ab337c4e3c1bf9ba",
+    "time": "2026-10-03T20:56:08.551012+00:00",
+    "actor": "นักสะสมตัวอย่าง",
+    "actor_id": "customer",
+    "action": "review_save",
+    "entity": "artwork",
+    "item_id": "8bf1e80aefd6dbd6f042c0b581bde440"
   }
 ]
