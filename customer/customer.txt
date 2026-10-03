@@ -91,6 +91,7 @@
       "tracking": "DEMO-TEXT-123"
     }
   ],
+  "earnings": [],
   "sales": [],
   "uploads": [
     {
@@ -145,5 +146,8 @@
       "entity": "order",
       "item_id": "d08aba0fcc24ab2f4f2d49dd4877a469"
     }
-  ]
+  ],
+  "reviews": [],
+  "likes": [],
+  "follows": []
 }

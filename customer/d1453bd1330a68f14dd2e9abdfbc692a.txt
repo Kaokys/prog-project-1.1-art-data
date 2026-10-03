@@ -13,6 +13,7 @@
   },
   "artworks": [],
   "purchases": [],
+  "earnings": [],
   "sales": [],
   "uploads": [],
   "logs": [
@@ -34,5 +35,8 @@
       "entity": "user",
       "item_id": "d1453bd1330a68f14dd2e9abdfbc692a"
     }
-  ]
+  ],
+  "reviews": [],
+  "likes": [],
+  "follows": []
 }

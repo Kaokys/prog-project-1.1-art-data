@@ -60,6 +60,7 @@
     }
   ],
   "purchases": [],
+  "earnings": [],
   "sales": [
     {
       "id": "e0b056ef7cb58115ccc41186731e11a6",
@@ -109,5 +110,8 @@
       "before": "staff",
       "after": "artist"
     }
-  ]
+  ],
+  "reviews": [],
+  "likes": [],
+  "follows": []
 }

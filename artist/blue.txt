@@ -120,6 +120,18 @@
     }
   ],
   "purchases": [],
+  "earnings": [
+    {
+      "order_id": "d08aba0fcc24ab2f4f2d49dd4877a469",
+      "artist_id": "blue",
+      "gross": 9999,
+      "discount": 1000,
+      "commission": 900,
+      "net": 8099,
+      "settled": false,
+      "name": "เบนจามินยาฮู"
+    }
+  ],
   "sales": [
     {
       "id": "d08aba0fcc24ab2f4f2d49dd4877a469",
@@ -260,5 +272,8 @@
       "before": "staff",
       "after": "artist"
     }
-  ]
+  ],
+  "reviews": [],
+  "likes": [],
+  "follows": []
 }
