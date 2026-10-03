@@ -1,0 +1,120 @@
+{
+  "profile": {
+    "id": "blue",
+    "email": "artist@demo.local",
+    "name": "เบนจามินยาฮู",
+    "role": "staff",
+    "avatar": "/assets/blue.jpg",
+    "bio": "ศิลปินมีม — โปรเจกต์สาธิต",
+    "active": true,
+    "password_hash": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998"
+  },
+  "artworks": [
+    {
+      "id": "art-1",
+      "artist_id": "blue",
+      "title": "Benjamin Approves",
+      "description": "ผลงานมีมสำหรับสาธิตระบบซื้อขายในชั้นเรียน ไม่ใช่สินค้าจริง",
+      "category": "งานศิลปะ",
+      "technique": "ภาพนิ่งจาก GIF",
+      "width": 60.0,
+      "height": 60.0,
+      "price": 3000,
+      "image": "/assets/art-1.jpg",
+      "status": "approved",
+      "deleted": false,
+      "credit": "TheBigBlue892",
+      "source_url": "https://tenor.com/view/benjamin-netanyahu-approved-gif-17723057525056256264"
+    },
+    {
+      "id": "art-3",
+      "artist_id": "blue",
+      "title": "Big Yahu Dance",
+      "description": "ผลงานมีมสำหรับสาธิตระบบซื้อขายในชั้นเรียน ไม่ใช่สินค้าจริง",
+      "category": "งานศิลปะ",
+      "technique": "ภาพนิ่งจาก GIF",
+      "width": 60.0,
+      "height": 60.0,
+      "price": 9000,
+      "image": "/assets/art-3.jpg",
+      "status": "approved",
+      "deleted": false,
+      "credit": "omamnz",
+      "source_url": "https://tenor.com/view/benjamin-netanyahu-dance-benjamin-netanyahu-dance-gif-17830850143863215782"
+    },
+    {
+      "id": "art-5",
+      "artist_id": "blue",
+      "title": "Tel Aviv Impressed",
+      "description": "ผลงานมีมสำหรับสาธิตระบบซื้อขายในชั้นเรียน ไม่ใช่สินค้าจริง",
+      "category": "งานศิลปะ",
+      "technique": "ภาพนิ่งจาก GIF",
+      "width": 60.0,
+      "height": 60.0,
+      "price": 15000,
+      "image": "/assets/art-5.jpg",
+      "status": "approved",
+      "deleted": false,
+      "credit": "WiiGalaxy",
+      "source_url": "https://tenor.com/view/big-yahu-tel-aviv-impressed-netanyahu-israel-gif-13606388048953703900"
+    },
+    {
+      "title": "GitHub text persistence test",
+      "description": "A one-pixel classroom test",
+      "category": "งานศิลปะ",
+      "technique": "Digital",
+      "width": 1.0,
+      "height": 1.0,
+      "price": 100,
+      "image": "/api?action=media&id=0fd7f8ae37ff3353cdc157fcad90ba95",
+      "id": "b78abd7b683a05f994240f8cf6eb5929",
+      "artist_id": "blue",
+      "status": "approved",
+      "deleted": true,
+      "note": ""
+    },
+    {
+      "title": "GitHub text persistence test",
+      "description": "A one-pixel classroom test",
+      "category": "งานศิลปะ",
+      "technique": "Digital",
+      "width": 1.0,
+      "height": 1.0,
+      "price": 100,
+      "image": "/api?action=media&id=71c95518d3f3b5714d752f0cc48cf901",
+      "id": "12b7a3d18649c3efff279be1c598ef94",
+      "artist_id": "blue",
+      "status": "approved",
+      "deleted": true,
+      "note": ""
+    }
+  ],
+  "purchases": [],
+  "sales": [],
+  "uploads": [
+    {
+      "owner": "blue",
+      "kind": "art",
+      "mime": "image/png",
+      "id": "0fd7f8ae37ff3353cdc157fcad90ba95",
+      "file": "media/0fd7f8ae37ff3353cdc157fcad90ba95"
+    },
+    {
+      "owner": "blue",
+      "kind": "art",
+      "mime": "image/png",
+      "id": "71c95518d3f3b5714d752f0cc48cf901",
+      "file": "media/71c95518d3f3b5714d752f0cc48cf901"
+    }
+  ],
+  "logs": [
+    {
+      "id": "d94405c993b4955191ca26b5acfc6e7f",
+      "time": "2026-10-03T19:41:07.765842+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "action": "update",
+      "entity": "user",
+      "item_id": "blue"
+    }
+  ]
+}

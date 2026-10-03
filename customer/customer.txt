@@ -1,0 +1,71 @@
+{
+  "profile": {
+    "id": "customer",
+    "email": "customer@demo.local",
+    "name": "นักสะสมตัวอย่าง",
+    "role": "customer",
+    "avatar": "",
+    "bio": "",
+    "active": true,
+    "addresses": [
+      {
+        "name": "sirawich rachajan",
+        "phone": "0986058925",
+        "line": "fdfdff",
+        "district": "fdfdfd",
+        "province": "Roiet",
+        "postal": "45000",
+        "id": "57f0e6d06b7aa230303d2c928f2c2c54"
+      }
+    ],
+    "password_hash": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998"
+  },
+  "artworks": [],
+  "purchases": [
+    {
+      "id": "e0b056ef7cb58115ccc41186731e11a6",
+      "key": "5fe377c1-28bc-4e02-9dcc-1be217fd1b9d",
+      "user_id": "customer",
+      "customer_name": "นักสะสมตัวอย่าง",
+      "items": [
+        {
+          "id": "art-4",
+          "title": "Ben 10 Confused",
+          "artist_id": "green",
+          "price": 12000,
+          "image": "/assets/art-4.jpg"
+        }
+      ],
+      "address": {
+        "name": "sirawich rachajan",
+        "phone": "0986058925",
+        "line": "fdfdff",
+        "district": "fdfdfd",
+        "province": "Roiet",
+        "postal": "45000"
+      },
+      "code": "",
+      "subtotal": 12000,
+      "discount": 0,
+      "shipping": 5000,
+      "tax": 0,
+      "total": 17000,
+      "status": "payment_review",
+      "created": "2026-10-03T19:45:08.235552+00:00",
+      "slip": "/api?action=media&id=2d705f27007ab178fd8833b3c1ff1aa2",
+      "note": "",
+      "tracking": ""
+    }
+  ],
+  "sales": [],
+  "uploads": [
+    {
+      "owner": "customer",
+      "kind": "slip",
+      "mime": "image/jpeg",
+      "id": "2d705f27007ab178fd8833b3c1ff1aa2",
+      "file": "media/2d705f27007ab178fd8833b3c1ff1aa2"
+    }
+  ],
+  "logs": []
+}

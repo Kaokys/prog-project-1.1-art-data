@@ -1,0 +1,17 @@
+{
+  "profile": {
+    "id": "admin",
+    "email": "admin@demo.local",
+    "name": "ผู้ดูแล SILLAPA",
+    "role": "admin",
+    "avatar": "",
+    "bio": "",
+    "active": true,
+    "password_hash": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998"
+  },
+  "artworks": [],
+  "purchases": [],
+  "sales": [],
+  "uploads": [],
+  "logs": []
+}
