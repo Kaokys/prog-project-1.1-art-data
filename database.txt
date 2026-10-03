@@ -51,6 +51,17 @@
           "id": "57f0e6d06b7aa230303d2c928f2c2c54"
         }
       ]
+    },
+    {
+      "id": "d1453bd1330a68f14dd2e9abdfbc692a",
+      "email": "283d818402b046ceb99204e24c259068@demo.local",
+      "name": "Disposable test user",
+      "role": "customer",
+      "active": true,
+      "password": "aa2b523afe42c330c62a2d0a88aef6dc:05e9f59664e658e6582a521d6f46a886a916f5554e3b7412332554cd4e6585ef",
+      "bio": "",
+      "avatar": "",
+      "artist_requested": false
     }
   ],
   "sessions": {
@@ -607,6 +618,15 @@
       "action": "order_status",
       "entity": "order",
       "item_id": "d08aba0fcc24ab2f4f2d49dd4877a469"
+    },
+    {
+      "id": "9b5be55a4c5645cc8bd82c16e1f12645",
+      "time": "2026-10-03T19:54:38.898470+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "user_create",
+      "entity": "user",
+      "item_id": "d1453bd1330a68f14dd2e9abdfbc692a"
     }
   ],
   "login_attempts": {},
