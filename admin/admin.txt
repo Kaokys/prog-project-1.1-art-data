@@ -131,6 +131,15 @@
       "action": "order_status",
       "entity": "order",
       "item_id": "3fbb1ece700f4a631803c1ba129adc6e"
+    },
+    {
+      "id": "6087406a16651d9698b7792fd3696934",
+      "time": "2026-10-03T20:56:14.841862+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "payout_settle",
+      "entity": "order",
+      "item_id": "3fbb1ece700f4a631803c1ba129adc6e"
     }
   ],
   "reviews": [],
