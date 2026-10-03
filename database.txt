@@ -151,7 +151,13 @@
     }
   ],
   "orders": [],
-  "media": {},
+  "media": {
+    "0fd7f8ae37ff3353cdc157fcad90ba95": {
+      "owner": "blue",
+      "kind": "art",
+      "mime": "image/png"
+    }
+  },
   "categories": [
     "งานศิลปะ"
   ],
@@ -171,6 +177,14 @@
       "action": "category_delete",
       "entity": "category",
       "item_id": "Storage verification 1791046105"
+    },
+    {
+      "id": "a999ed30c7c4ba4cf797914492a0b5d8",
+      "time": "2026-10-03T17:57:44.527368+00:00",
+      "actor": "เบนจามินยาฮู",
+      "action": "upload",
+      "entity": "media",
+      "item_id": "0fd7f8ae37ff3353cdc157fcad90ba95"
     }
   ],
   "login_attempts": {},
