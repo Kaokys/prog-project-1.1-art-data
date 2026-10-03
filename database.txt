@@ -39,7 +39,18 @@
       "avatar": "",
       "bio": "",
       "password": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998",
-      "active": true
+      "active": true,
+      "addresses": [
+        {
+          "name": "sirawich rachajan",
+          "phone": "0986058925",
+          "line": "fdfdff",
+          "district": "fdfdfd",
+          "province": "Roiet",
+          "postal": "45000",
+          "id": "57f0e6d06b7aa230303d2c928f2c2c54"
+        }
+      ]
     }
   ],
   "sessions": {
