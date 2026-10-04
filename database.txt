@@ -463,9 +463,9 @@
       "shipping": 5000,
       "tax": 0,
       "total": 14000,
-      "status": "pending_payment",
+      "status": "payment_review",
       "created": "2026-10-04T09:17:37.781949+00:00",
-      "slip": "",
+      "slip": "/api?action=media&id=07fae694561e61223463860f819b2c5c",
       "note": "",
       "tracking": ""
     }
@@ -1261,6 +1261,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "07fae694561e61223463860f819b2c5c"
+    },
+    {
+      "id": "909fcc58f63b1eba3257bd84780850a3",
+      "time": "2026-10-04T09:18:03.351118+00:00",
+      "actor": "นักสะสมตัวอย่าง",
+      "actor_id": "customer",
+      "action": "order_slip",
+      "entity": "order",
+      "item_id": "64c3956604c2ec1bdfa617a3f2ebf2b3"
     }
   ],
   "login_attempts": {
