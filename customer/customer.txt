@@ -51,10 +51,10 @@
       "shipping": 5000,
       "tax": 0,
       "total": 17000,
-      "status": "payment_review",
+      "status": "pending_payment",
       "created": "2026-10-03T19:45:08.235552+00:00",
-      "slip": "/api?action=media&id=2d705f27007ab178fd8833b3c1ff1aa2",
-      "note": "",
+      "slip": "",
+      "note": "ไกไหก",
       "tracking": ""
     },
     {
