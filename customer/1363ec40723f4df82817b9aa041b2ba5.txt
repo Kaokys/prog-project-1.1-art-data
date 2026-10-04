@@ -11,7 +11,51 @@
     "password_hash": "03f3089d30f48a4d1f584bcec33e0fd3:55f133a87f05a43eca11275f74e482a2568752af46893e383659611ffeb4c216"
   },
   "artworks": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "id": "62f752738f39ffc97ed26a5860bce7f2",
+      "key": "45fde631-36d8-47e9-a1b5-43c312cddba3",
+      "user_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "customer_name": "Pisad",
+      "items": [
+        {
+          "id": "art-1",
+          "title": "Benjamin Approves",
+          "artist_id": "blue",
+          "price": 3000,
+          "image": "/assets/art-1.jpg",
+          "original": ""
+        },
+        {
+          "id": "art-2",
+          "title": "Ben 10 Stare",
+          "artist_id": "green",
+          "price": 6000,
+          "image": "/assets/art-2.jpg",
+          "original": ""
+        }
+      ],
+      "address": {
+        "name": "ปีสาด",
+        "phone": "0666666660",
+        "line": "ตกเจ็ด/67",
+        "district": "ปริศนา",
+        "province": "แดง",
+        "postal": "66666"
+      },
+      "code": "",
+      "subtotal": 9000,
+      "discount": 0,
+      "shipping": 5000,
+      "tax": 0,
+      "total": 14000,
+      "status": "pending_payment",
+      "created": "2026-10-04T09:19:11.879217+00:00",
+      "slip": "",
+      "note": "",
+      "tracking": ""
+    }
+  ],
   "earnings": [],
   "sales": [],
   "uploads": [
@@ -132,6 +176,15 @@
       "action": "update",
       "entity": "profile",
       "item_id": "1363ec40723f4df82817b9aa041b2ba5"
+    },
+    {
+      "id": "22aa1f62ef668059beda5676f8ddf57f",
+      "time": "2026-10-04T09:19:11.879252+00:00",
+      "actor": "Pisad",
+      "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "action": "create",
+      "entity": "order",
+      "item_id": "62f752738f39ffc97ed26a5860bce7f2"
     }
   ],
   "reviews": [],
