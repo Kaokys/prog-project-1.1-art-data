@@ -889,6 +889,12 @@
       "parts": [
         "b15753deb2162b87816bb68826c7468c"
       ]
+    },
+    "0f44f7e4a43e92f44a95db50fe1a4086": {
+      "owner": "blue",
+      "kind": "art",
+      "mime": "image/jpeg",
+      "watermarked": true
     }
   },
   "categories": [
@@ -2054,6 +2060,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "4dbfdffdb854d5e8790268b6a8dcc788"
+    },
+    {
+      "id": "4ab92998a17124aacd28fc00d41df827",
+      "time": "2026-10-04T09:33:19.300047+00:00",
+      "actor": "เบนจามินยาฮู",
+      "actor_id": "blue",
+      "action": "upload",
+      "entity": "media",
+      "item_id": "0f44f7e4a43e92f44a95db50fe1a4086"
     }
   ],
   "login_attempts": {
