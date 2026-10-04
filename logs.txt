@@ -681,5 +681,14 @@
     "action": "update",
     "entity": "profile",
     "item_id": "1363ec40723f4df82817b9aa041b2ba5"
+  },
+  {
+    "id": "0d63a81e8d2b7eeef7c02bcfead871a9",
+    "time": "2026-10-04T09:17:37.781984+00:00",
+    "actor": "นักสะสมตัวอย่าง",
+    "actor_id": "customer",
+    "action": "create",
+    "entity": "order",
+    "item_id": "64c3956604c2ec1bdfa617a3f2ebf2b3"
   }
 ]

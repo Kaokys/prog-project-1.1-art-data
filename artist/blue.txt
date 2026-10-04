@@ -37,7 +37,7 @@
       "height": 60.0,
       "price": 9000,
       "image": "/assets/art-3.jpg",
-      "status": "approved",
+      "status": "reserved",
       "deleted": false,
       "credit": "omamnz",
       "source_url": "https://tenor.com/view/benjamin-netanyahu-dance-benjamin-netanyahu-dance-gif-17830850143863215782"
@@ -278,6 +278,41 @@
       "slip": "/api?action=media&id=6321f50b437c3b8dcf76f7745acfbb4f",
       "note": "",
       "tracking": "bbf"
+    },
+    {
+      "id": "64c3956604c2ec1bdfa617a3f2ebf2b3",
+      "key": "398cd9b8-15f4-4faa-8194-70c868a06228",
+      "user_id": "customer",
+      "customer_name": "นักสะสมตัวอย่าง",
+      "items": [
+        {
+          "id": "art-3",
+          "title": "Big Yahu Dance",
+          "artist_id": "blue",
+          "price": 9000,
+          "image": "/assets/art-3.jpg",
+          "original": ""
+        }
+      ],
+      "address": {
+        "name": "sirawich rachajan",
+        "phone": "0986058925",
+        "line": "fdfdff",
+        "district": "fdfdfd",
+        "province": "Roiet",
+        "postal": "45000"
+      },
+      "code": "",
+      "subtotal": 9000,
+      "discount": 0,
+      "shipping": 5000,
+      "tax": 0,
+      "total": 14000,
+      "status": "pending_payment",
+      "created": "2026-10-04T09:17:37.781949+00:00",
+      "slip": "",
+      "note": "",
+      "tracking": ""
     }
   ],
   "uploads": [
