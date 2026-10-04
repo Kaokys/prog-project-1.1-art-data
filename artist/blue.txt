@@ -169,7 +169,7 @@
       "technique": "{{1+1}}",
       "width": 123.0,
       "height": 123.0,
-      "price": 67676700,
+      "price": 999900,
       "image": "/api?action=media&id=e0f7d81538b3a58a3512b8606030a621",
       "tags": [
         "{{1+1}}"
@@ -1323,6 +1323,15 @@
       "actor": "เบนจามินยาฮู",
       "actor_id": "blue",
       "action": "art_create",
+      "entity": "artwork",
+      "item_id": "b265ef76fdbec58ffd5268c768ab5177"
+    },
+    {
+      "id": "2c2a6cf04f007a57990a7619d1491649",
+      "time": "2026-10-04T11:00:58.811116+00:00",
+      "actor": "เบนจามินยาฮู",
+      "actor_id": "blue",
+      "action": "art_update",
       "entity": "artwork",
       "item_id": "b265ef76fdbec58ffd5268c768ab5177"
     }
