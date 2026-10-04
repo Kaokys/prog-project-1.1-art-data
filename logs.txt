@@ -555,5 +555,14 @@
     "action": "like_set",
     "entity": "likes",
     "item_id": "art-1"
+  },
+  {
+    "id": "d2bc589045efbe96c48d3c1b08c4273b",
+    "time": "2026-10-04T09:15:06.583025+00:00",
+    "actor": "Pisad",
+    "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+    "action": "follow_set",
+    "entity": "follows",
+    "item_id": "green"
   }
 ]
