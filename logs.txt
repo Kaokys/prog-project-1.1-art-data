@@ -1257,5 +1257,14 @@
     "action": "create",
     "entity": "order",
     "item_id": "e6a608e7474eadfc24f12d342057675b"
+  },
+  {
+    "id": "0b7a44fe46997633bd13530f3617e87d",
+    "time": "2026-10-04T10:35:43.100685+00:00",
+    "actor": "นักสะสมตัวอย่าง",
+    "actor_id": "customer",
+    "action": "upload",
+    "entity": "media",
+    "item_id": "64ca83028534cc813db782544090589a"
   }
 ]
