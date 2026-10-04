@@ -324,6 +324,25 @@
       "status": "approved",
       "deleted": false,
       "note": ""
+    },
+    {
+      "watermarked": true,
+      "original": "/api?action=media&id=d38b6624f270d87dbbcdb71169697574",
+      "title": "โหดที่สุด <img src=x onerror=\"alert(1)\">",
+      "description": "<img src=x onerror=\"alert(1)\">",
+      "category": "งานศิลปะ",
+      "technique": "<img src=x onerror=\"alert(1)\">",
+      "width": 123.0,
+      "height": 123.0,
+      "price": 12300,
+      "image": "/api?action=media&id=e0f7d81538b3a58a3512b8606030a621",
+      "tags": [
+        "<img src=x onerror=\"alert(1)\">"
+      ],
+      "id": "b265ef76fdbec58ffd5268c768ab5177",
+      "artist_id": "blue",
+      "status": "pending",
+      "deleted": false
     }
   ],
   "orders": [
@@ -2146,6 +2165,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "d38b6624f270d87dbbcdb71169697574"
+    },
+    {
+      "id": "e5b01edbf3ba72651124112f8ff3910f",
+      "time": "2026-10-04T09:33:42.120246+00:00",
+      "actor": "เบนจามินยาฮู",
+      "actor_id": "blue",
+      "action": "art_create",
+      "entity": "artwork",
+      "item_id": "b265ef76fdbec58ffd5268c768ab5177"
     }
   ],
   "login_attempts": {
