@@ -74,7 +74,18 @@
       "active": true,
       "bio": "Narok67",
       "avatar": "/api?action=media&id=e2b04860f3b2eb49cb2bac37c2feb989",
-      "artist_requested": true
+      "artist_requested": true,
+      "addresses": [
+        {
+          "name": "ปีสาด",
+          "phone": "0666666660",
+          "line": "ตกเจ็ด/67",
+          "district": "ปริศนา",
+          "province": "แดง",
+          "postal": "66666",
+          "id": "3055a3492d26a5d21adbf109d55b64a4"
+        }
+      ]
     }
   ],
   "sessions": {
