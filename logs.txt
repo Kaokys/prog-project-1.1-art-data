@@ -600,5 +600,14 @@
     "action": "follow_set",
     "entity": "follows",
     "item_id": "green"
+  },
+  {
+    "id": "ed40fe23783354d9c8e502ae615936e8",
+    "time": "2026-10-04T09:15:34.410489+00:00",
+    "actor": "นักสะสมตัวอย่าง",
+    "actor_id": "customer",
+    "action": "order_slip",
+    "entity": "order",
+    "item_id": "41da76f1824321881f534c429a89253a"
   }
 ]
