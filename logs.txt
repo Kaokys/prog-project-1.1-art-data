@@ -519,5 +519,14 @@
     "action": "update",
     "entity": "profile",
     "item_id": "customer"
+  },
+  {
+    "id": "ef7403cd08fc35ed0f25d5c4911e2d36",
+    "time": "2026-10-04T09:12:38.611541+00:00",
+    "actor": "Pisad",
+    "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+    "action": "register",
+    "entity": "user",
+    "item_id": "1363ec40723f4df82817b9aa041b2ba5"
   }
 ]

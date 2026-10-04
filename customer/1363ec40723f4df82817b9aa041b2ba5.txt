@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "id": "1363ec40723f4df82817b9aa041b2ba5",
+    "email": "pisad@gmail.com",
+    "name": "Pisad",
+    "role": "customer",
+    "active": true,
+    "bio": "",
+    "avatar": "",
+    "password_hash": "03f3089d30f48a4d1f584bcec33e0fd3:55f133a87f05a43eca11275f74e482a2568752af46893e383659611ffeb4c216"
+  },
+  "artworks": [],
+  "purchases": [],
+  "earnings": [],
+  "sales": [],
+  "uploads": [],
+  "logs": [
+    {
+      "id": "ef7403cd08fc35ed0f25d5c4911e2d36",
+      "time": "2026-10-04T09:12:38.611541+00:00",
+      "actor": "Pisad",
+      "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "action": "register",
+      "entity": "user",
+      "item_id": "1363ec40723f4df82817b9aa041b2ba5"
+    }
+  ],
+  "reviews": [],
+  "likes": [],
+  "follows": []
+}

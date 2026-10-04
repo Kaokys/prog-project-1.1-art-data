@@ -64,6 +64,16 @@
       "avatar": "",
       "artist_requested": false,
       "deleted": true
+    },
+    {
+      "id": "1363ec40723f4df82817b9aa041b2ba5",
+      "email": "pisad@gmail.com",
+      "name": "Pisad",
+      "password": "03f3089d30f48a4d1f584bcec33e0fd3:55f133a87f05a43eca11275f74e482a2568752af46893e383659611ffeb4c216",
+      "role": "customer",
+      "active": true,
+      "bio": "",
+      "avatar": ""
     }
   ],
   "sessions": {
@@ -94,6 +104,10 @@
     "681a9e5068ff93435f8f68f32d040dd48fd25dc93c4a6c01a34faa54bc05f75d": {
       "user_id": "customer",
       "expires": 1793696983
+    },
+    "683e65a6b8e89a0156bdc1e714bbc3a02f05cb725fcdc64bed59f890b1343d75": {
+      "user_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "expires": 1793697158
     }
   },
   "artworks": [
@@ -974,6 +988,15 @@
       "action": "update",
       "entity": "profile",
       "item_id": "customer"
+    },
+    {
+      "id": "ef7403cd08fc35ed0f25d5c4911e2d36",
+      "time": "2026-10-04T09:12:38.611541+00:00",
+      "actor": "Pisad",
+      "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "action": "register",
+      "entity": "user",
+      "item_id": "1363ec40723f4df82817b9aa041b2ba5"
     }
   ],
   "login_attempts": {
