@@ -140,9 +140,23 @@
       "action": "payout_settle",
       "entity": "order",
       "item_id": "3fbb1ece700f4a631803c1ba129adc6e"
+    },
+    {
+      "id": "511628762f4a2fa9ff592343178af39d",
+      "time": "2026-10-04T09:08:39.405672+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "like_set",
+      "entity": "likes",
+      "item_id": "29d81144070005499bbac9d4b01b3381"
     }
   ],
   "reviews": [],
-  "likes": [],
+  "likes": [
+    {
+      "art_id": "29d81144070005499bbac9d4b01b3381",
+      "user_id": "admin"
+    }
+  ],
   "follows": []
 }
