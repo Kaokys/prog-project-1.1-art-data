@@ -689,6 +689,14 @@
       ],
       "id": "1a24e73b80d1c7ecb5cffdd278f611bd",
       "file": "media/1a24e73b80d1c7ecb5cffdd278f611bd"
+    },
+    {
+      "owner": "blue",
+      "kind": "art",
+      "mime": "image/jpeg",
+      "watermarked": true,
+      "id": "26e7f1b0ce85d23dc1ae5c6ebfc5934c",
+      "file": "media/26e7f1b0ce85d23dc1ae5c6ebfc5934c"
     }
   ],
   "logs": [
@@ -1106,6 +1114,15 @@
       "action": "art_create",
       "entity": "artwork",
       "item_id": "1031dfe29640b4f9e57ee50ab0a6915d"
+    },
+    {
+      "id": "d5c18dc8f7149b8040315343b257d67c",
+      "time": "2026-10-04T09:33:01.658924+00:00",
+      "actor": "เบนจามินยาฮู",
+      "actor_id": "blue",
+      "action": "upload",
+      "entity": "media",
+      "item_id": "26e7f1b0ce85d23dc1ae5c6ebfc5934c"
     }
   ],
   "reviews": [],
