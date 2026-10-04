@@ -1248,5 +1248,14 @@
     "action": "like_set",
     "entity": "likes",
     "item_id": "1031dfe29640b4f9e57ee50ab0a6915d"
+  },
+  {
+    "id": "f19df7eed506d135624a75cd13eef2ec",
+    "time": "2026-10-04T10:35:02.631838+00:00",
+    "actor": "นักสะสมตัวอย่าง",
+    "actor_id": "customer",
+    "action": "create",
+    "entity": "order",
+    "item_id": "e6a608e7474eadfc24f12d342057675b"
   }
 ]

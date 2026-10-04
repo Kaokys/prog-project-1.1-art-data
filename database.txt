@@ -333,7 +333,7 @@
       ],
       "id": "1031dfe29640b4f9e57ee50ab0a6915d",
       "artist_id": "blue",
-      "status": "approved",
+      "status": "reserved",
       "deleted": false,
       "note": ""
     },
@@ -606,6 +606,41 @@
       "status": "payment_review",
       "created": "2026-10-04T09:23:48.973101+00:00",
       "slip": "/api?action=media&id=28e7180ab563c46b68d2551d495ae9d0",
+      "note": "",
+      "tracking": ""
+    },
+    {
+      "id": "e6a608e7474eadfc24f12d342057675b",
+      "key": "3e933ab2-6745-4779-b27e-be6285ff437a",
+      "user_id": "customer",
+      "customer_name": "นักสะสมตัวอย่าง",
+      "items": [
+        {
+          "id": "1031dfe29640b4f9e57ee50ab0a6915d",
+          "title": "ยิงหัว",
+          "artist_id": "blue",
+          "price": 67700,
+          "image": "/api?action=media&id=e7f5fc6e7612c5428b9e48e17cb8175c",
+          "original": "/api?action=media&id=1a24e73b80d1c7ecb5cffdd278f611bd"
+        }
+      ],
+      "address": {
+        "name": "sirawich rachajan",
+        "phone": "0986058925",
+        "line": "fdfdff",
+        "district": "fdfdfd",
+        "province": "Roiet",
+        "postal": "45000"
+      },
+      "code": "",
+      "subtotal": 67700,
+      "discount": 0,
+      "shipping": 5000,
+      "tax": 0,
+      "total": 72700,
+      "status": "pending_payment",
+      "created": "2026-10-04T10:35:02.631803+00:00",
+      "slip": "",
       "note": "",
       "tracking": ""
     }
@@ -2213,6 +2248,15 @@
       "action": "like_set",
       "entity": "likes",
       "item_id": "1031dfe29640b4f9e57ee50ab0a6915d"
+    },
+    {
+      "id": "f19df7eed506d135624a75cd13eef2ec",
+      "time": "2026-10-04T10:35:02.631838+00:00",
+      "actor": "นักสะสมตัวอย่าง",
+      "actor_id": "customer",
+      "action": "create",
+      "entity": "order",
+      "item_id": "e6a608e7474eadfc24f12d342057675b"
     }
   ],
   "login_attempts": {
