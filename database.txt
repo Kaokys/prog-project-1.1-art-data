@@ -1011,6 +1011,14 @@
       "owner": "blue",
       "kind": "original_part",
       "mime": "application/octet-stream"
+    },
+    "b1af4367f7d7883e7c9463ee2a30b03c": {
+      "owner": "blue",
+      "kind": "original",
+      "mime": "image/png",
+      "parts": [
+        "aa4e4b550fd65b6e127f15ce1017ae6a"
+      ]
     }
   },
   "categories": [
@@ -2374,6 +2382,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "aa4e4b550fd65b6e127f15ce1017ae6a"
+    },
+    {
+      "id": "b29edb09487424d4abc4b3f4572d7887",
+      "time": "2026-10-04T11:05:19.131607+00:00",
+      "actor": "เบนจามินยาฮู",
+      "actor_id": "blue",
+      "action": "upload",
+      "entity": "media",
+      "item_id": "b1af4367f7d7883e7c9463ee2a30b03c"
     }
   ],
   "login_attempts": {
