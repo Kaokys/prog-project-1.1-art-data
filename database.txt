@@ -356,6 +356,25 @@
       "status": "approved",
       "deleted": true,
       "note": ""
+    },
+    {
+      "watermarked": true,
+      "original": "/api?action=media&id=b1af4367f7d7883e7c9463ee2a30b03c",
+      "title": "โกโรโกโส",
+      "description": "โกโรโกโส",
+      "category": "งานศิลปะ",
+      "technique": "โกโรโกโส",
+      "width": 677.0,
+      "height": 3.0,
+      "price": 8485100,
+      "image": "/api?action=media&id=b576423829a775f6ebb571621ccf5be0",
+      "tags": [
+        "โกโรโกโส"
+      ],
+      "id": "4dc9edb062529ff67076b1b7b9420765",
+      "artist_id": "blue",
+      "status": "pending",
+      "deleted": false
     }
   ],
   "orders": [
@@ -2391,6 +2410,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "b1af4367f7d7883e7c9463ee2a30b03c"
+    },
+    {
+      "id": "b51ac629609f1b5d6dd543a695507827",
+      "time": "2026-10-04T11:05:21.312451+00:00",
+      "actor": "เบนจามินยาฮู",
+      "actor_id": "blue",
+      "action": "art_create",
+      "entity": "artwork",
+      "item_id": "4dc9edb062529ff67076b1b7b9420765"
     }
   ],
   "login_attempts": {
