@@ -328,16 +328,16 @@
     {
       "watermarked": true,
       "original": "/api?action=media&id=d38b6624f270d87dbbcdb71169697574",
-      "title": "โหดที่สุด <img src=x onerror=\"alert(1)\">",
-      "description": "<img src=x onerror=\"alert(1)\">",
+      "title": "โหดที่สุด {{1+1}}",
+      "description": "{{1+1}}",
       "category": "งานศิลปะ",
-      "technique": "<img src=x onerror=\"alert(1)\">",
+      "technique": "{{1+1}}",
       "width": 123.0,
       "height": 123.0,
       "price": 12300,
       "image": "/api?action=media&id=e0f7d81538b3a58a3512b8606030a621",
       "tags": [
-        "<img src=x onerror=\"alert(1)\">"
+        "{{1+1}}"
       ],
       "id": "b265ef76fdbec58ffd5268c768ab5177",
       "artist_id": "blue",
@@ -2172,6 +2172,15 @@
       "actor": "เบนจามินยาฮู",
       "actor_id": "blue",
       "action": "art_create",
+      "entity": "artwork",
+      "item_id": "b265ef76fdbec58ffd5268c768ab5177"
+    },
+    {
+      "id": "c7a85c1d5db78f01739219e54caeb98a",
+      "time": "2026-10-04T09:35:18.233427+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "art_update",
       "entity": "artwork",
       "item_id": "b265ef76fdbec58ffd5268c768ab5177"
     }

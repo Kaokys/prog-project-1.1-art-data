@@ -1221,5 +1221,14 @@
     "action": "art_create",
     "entity": "artwork",
     "item_id": "b265ef76fdbec58ffd5268c768ab5177"
+  },
+  {
+    "id": "c7a85c1d5db78f01739219e54caeb98a",
+    "time": "2026-10-04T09:35:18.233427+00:00",
+    "actor": "ผู้ดูแล SILLAPA",
+    "actor_id": "admin",
+    "action": "art_update",
+    "entity": "artwork",
+    "item_id": "b265ef76fdbec58ffd5268c768ab5177"
   }
 ]
