@@ -53,7 +53,7 @@
       "height": 60.0,
       "price": 15000,
       "image": "/assets/art-5.jpg",
-      "status": "approved",
+      "status": "reserved",
       "deleted": false,
       "credit": "WiiGalaxy",
       "source_url": "https://tenor.com/view/big-yahu-tel-aviv-impressed-netanyahu-israel-gif-13606388048953703900"
@@ -233,6 +233,41 @@
       "slip": "/api?action=media&id=76e6c5c20ba968938c02eb93cc1f2cd6",
       "note": "",
       "tracking": "DEMO-DIGITAL-001"
+    },
+    {
+      "id": "41da76f1824321881f534c429a89253a",
+      "key": "168130b6-d2b5-40d1-912b-fc4b6bc0baf7",
+      "user_id": "customer",
+      "customer_name": "นักสะสมตัวอย่าง",
+      "items": [
+        {
+          "id": "art-5",
+          "title": "Tel Aviv Impressed",
+          "artist_id": "blue",
+          "price": 15000,
+          "image": "/assets/art-5.jpg",
+          "original": ""
+        }
+      ],
+      "address": {
+        "name": "sirawich rachajan",
+        "phone": "0986058925",
+        "line": "fdfdff",
+        "district": "fdfdfd",
+        "province": "Roiet",
+        "postal": "45000"
+      },
+      "code": "",
+      "subtotal": 15000,
+      "discount": 0,
+      "shipping": 5000,
+      "tax": 0,
+      "total": 20000,
+      "status": "pending_payment",
+      "created": "2026-10-04T09:14:39.317364+00:00",
+      "slip": "",
+      "note": "",
+      "tracking": ""
     }
   ],
   "uploads": [
