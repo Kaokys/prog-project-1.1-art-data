@@ -150,7 +150,7 @@
       "discount": 1000,
       "commission": 900,
       "net": 8099,
-      "settled": false,
+      "settled": true,
       "name": "เบนจามินยาฮู"
     },
     {
