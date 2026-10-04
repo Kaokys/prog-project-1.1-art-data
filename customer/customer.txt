@@ -150,6 +150,14 @@
       "watermarked": false,
       "id": "76e6c5c20ba968938c02eb93cc1f2cd6",
       "file": "media/76e6c5c20ba968938c02eb93cc1f2cd6"
+    },
+    {
+      "owner": "customer",
+      "kind": "avatar",
+      "mime": "image/jpeg",
+      "watermarked": false,
+      "id": "f41f5898bdb3d66f17396541e92ef981",
+      "file": "media/f41f5898bdb3d66f17396541e92ef981"
     }
   ],
   "logs": [
@@ -269,6 +277,15 @@
       "action": "review_save",
       "entity": "artwork",
       "item_id": "8bf1e80aefd6dbd6f042c0b581bde440"
+    },
+    {
+      "id": "3372c148aec115ac8a31646a1950cb5d",
+      "time": "2026-10-04T09:11:06.629161+00:00",
+      "actor": "นักสะสมตัวอย่าง",
+      "actor_id": "customer",
+      "action": "upload",
+      "entity": "media",
+      "item_id": "f41f5898bdb3d66f17396541e92ef981"
     }
   ],
   "reviews": [
