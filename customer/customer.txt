@@ -190,7 +190,7 @@
       "shipping": 5000,
       "tax": 0,
       "total": 14000,
-      "status": "payment_review",
+      "status": "paid",
       "created": "2026-10-04T09:17:37.781949+00:00",
       "slip": "/api?action=media&id=07fae694561e61223463860f819b2c5c",
       "note": "",
