@@ -1329,5 +1329,14 @@
     "action": "art_review",
     "entity": "artwork",
     "item_id": "b265ef76fdbec58ffd5268c768ab5177"
+  },
+  {
+    "id": "0213529f52adde31e848299f1e36faac",
+    "time": "2026-10-04T11:04:13.839400+00:00",
+    "actor": "เบนจามินยาฮู",
+    "actor_id": "blue",
+    "action": "art_delete",
+    "entity": "artwork",
+    "item_id": "b265ef76fdbec58ffd5268c768ab5177"
   }
 ]
