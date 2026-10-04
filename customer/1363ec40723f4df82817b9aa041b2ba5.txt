@@ -86,6 +86,15 @@
       "action": "like_set",
       "entity": "likes",
       "item_id": "art-2"
+    },
+    {
+      "id": "7dbdb34e71b7d56329e7512a0490c1fa",
+      "time": "2026-10-04T09:15:39.265263+00:00",
+      "actor": "Pisad",
+      "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "action": "follow_set",
+      "entity": "follows",
+      "item_id": "green"
     }
   ],
   "reviews": [],
@@ -102,10 +111,6 @@
   "follows": [
     {
       "artist_id": "blue",
-      "user_id": "1363ec40723f4df82817b9aa041b2ba5"
-    },
-    {
-      "artist_id": "green",
       "user_id": "1363ec40723f4df82817b9aa041b2ba5"
     }
   ]
