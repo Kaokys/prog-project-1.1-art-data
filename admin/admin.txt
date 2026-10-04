@@ -248,6 +248,15 @@
       "action": "order_status",
       "entity": "order",
       "item_id": "e6a608e7474eadfc24f12d342057675b"
+    },
+    {
+      "id": "2fb823dede6b3366546d3cd06dfc4b74",
+      "time": "2026-10-04T10:58:41.360594+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "art_update",
+      "entity": "artwork",
+      "item_id": "b265ef76fdbec58ffd5268c768ab5177"
     }
   ],
   "reviews": [],
