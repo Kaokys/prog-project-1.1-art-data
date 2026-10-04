@@ -483,5 +483,14 @@
     "action": "like_set",
     "entity": "likes",
     "item_id": "29d81144070005499bbac9d4b01b3381"
+  },
+  {
+    "id": "60f36caef7b23b76ede3c681a713e302",
+    "time": "2026-10-04T09:08:43.877771+00:00",
+    "actor": "ผู้ดูแล SILLAPA",
+    "actor_id": "admin",
+    "action": "follow_set",
+    "entity": "follows",
+    "item_id": "blue"
   }
 ]
