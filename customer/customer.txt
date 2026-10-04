@@ -4,8 +4,8 @@
     "email": "customer@demo.local",
     "name": "นักสะสมตัวอย่าง",
     "role": "customer",
-    "avatar": "",
-    "bio": "",
+    "avatar": "/api?action=media&id=f41f5898bdb3d66f17396541e92ef981",
+    "bio": "ผมรัก 67 kid ผมเข้าทหารเพราะผมอยากอาบน้ำกับหนุ่มๆ",
     "active": true,
     "addresses": [
       {
@@ -18,6 +18,7 @@
         "id": "57f0e6d06b7aa230303d2c928f2c2c54"
       }
     ],
+    "artist_requested": true,
     "password_hash": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998"
   },
   "artworks": [],
@@ -286,6 +287,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "f41f5898bdb3d66f17396541e92ef981"
+    },
+    {
+      "id": "07f607bd9c4fff587189b790145dd98c",
+      "time": "2026-10-04T09:11:08.850434+00:00",
+      "actor": "นักสะสมตัวอย่าง",
+      "actor_id": "customer",
+      "action": "update",
+      "entity": "profile",
+      "item_id": "customer"
     }
   ],
   "reviews": [
