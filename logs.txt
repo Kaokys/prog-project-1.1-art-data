@@ -528,5 +528,14 @@
     "action": "register",
     "entity": "user",
     "item_id": "1363ec40723f4df82817b9aa041b2ba5"
+  },
+  {
+    "id": "aea587e0d88a9ec6516098140cc02ea6",
+    "time": "2026-10-04T09:14:30.208346+00:00",
+    "actor": "Pisad",
+    "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+    "action": "follow_set",
+    "entity": "follows",
+    "item_id": "blue"
   }
 ]
