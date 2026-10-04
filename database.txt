@@ -2204,6 +2204,15 @@
       "action": "like_set",
       "entity": "likes",
       "item_id": "1031dfe29640b4f9e57ee50ab0a6915d"
+    },
+    {
+      "id": "3da0addfaa8d311f09403bd4290d0ded",
+      "time": "2026-10-04T10:33:47.890586+00:00",
+      "actor": "นักสะสมตัวอย่าง",
+      "actor_id": "customer",
+      "action": "like_set",
+      "entity": "likes",
+      "item_id": "1031dfe29640b4f9e57ee50ab0a6915d"
     }
   ],
   "login_attempts": {
@@ -2239,6 +2248,10 @@
     {
       "art_id": "29d81144070005499bbac9d4b01b3381",
       "user_id": "1363ec40723f4df82817b9aa041b2ba5"
+    },
+    {
+      "art_id": "1031dfe29640b4f9e57ee50ab0a6915d",
+      "user_id": "customer"
     }
   ],
   "follows": [
