@@ -53,7 +53,7 @@
       "height": 60.0,
       "price": 15000,
       "image": "/assets/art-5.jpg",
-      "status": "reserved",
+      "status": "sold",
       "deleted": false,
       "credit": "WiiGalaxy",
       "source_url": "https://tenor.com/view/big-yahu-tel-aviv-impressed-netanyahu-israel-gif-13606388048953703900"
@@ -263,7 +263,7 @@
       "shipping": 5000,
       "tax": 0,
       "total": 20000,
-      "status": "payment_review",
+      "status": "paid",
       "created": "2026-10-04T09:14:39.317364+00:00",
       "slip": "/api?action=media&id=6321f50b437c3b8dcf76f7745acfbb4f",
       "note": "",

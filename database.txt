@@ -190,7 +190,7 @@
       "height": 60.0,
       "price": 15000,
       "image": "/assets/art-5.jpg",
-      "status": "reserved",
+      "status": "sold",
       "deleted": false,
       "credit": "WiiGalaxy",
       "source_url": "https://tenor.com/view/big-yahu-tel-aviv-impressed-netanyahu-israel-gif-13606388048953703900"
@@ -427,7 +427,7 @@
       "shipping": 5000,
       "tax": 0,
       "total": 20000,
-      "status": "payment_review",
+      "status": "paid",
       "created": "2026-10-04T09:14:39.317364+00:00",
       "slip": "/api?action=media&id=6321f50b437c3b8dcf76f7745acfbb4f",
       "note": "",
@@ -1150,6 +1150,15 @@
       "action": "follow_set",
       "entity": "follows",
       "item_id": "green"
+    },
+    {
+      "id": "44dd81cb36587f73e7d5d0800b168f90",
+      "time": "2026-10-04T09:16:05.799604+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "order_status",
+      "entity": "order",
+      "item_id": "41da76f1824321881f534c429a89253a"
     }
   ],
   "login_attempts": {
