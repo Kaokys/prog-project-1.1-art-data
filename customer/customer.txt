@@ -18,7 +18,7 @@
         "id": "57f0e6d06b7aa230303d2c928f2c2c54"
       }
     ],
-    "artist_requested": true,
+    "artist_requested": false,
     "password_hash": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998"
   },
   "artworks": [],
@@ -291,6 +291,15 @@
     {
       "id": "07f607bd9c4fff587189b790145dd98c",
       "time": "2026-10-04T09:11:08.850434+00:00",
+      "actor": "นักสะสมตัวอย่าง",
+      "actor_id": "customer",
+      "action": "update",
+      "entity": "profile",
+      "item_id": "customer"
+    },
+    {
+      "id": "39050cdf27bfb3bd28bbbcb045d038d0",
+      "time": "2026-10-04T09:11:40.773944+00:00",
       "actor": "นักสะสมตัวอย่าง",
       "actor_id": "customer",
       "action": "update",

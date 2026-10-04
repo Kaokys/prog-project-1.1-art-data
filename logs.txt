@@ -510,5 +510,14 @@
     "action": "update",
     "entity": "profile",
     "item_id": "customer"
+  },
+  {
+    "id": "39050cdf27bfb3bd28bbbcb045d038d0",
+    "time": "2026-10-04T09:11:40.773944+00:00",
+    "actor": "นักสะสมตัวอย่าง",
+    "actor_id": "customer",
+    "action": "update",
+    "entity": "profile",
+    "item_id": "customer"
   }
 ]
