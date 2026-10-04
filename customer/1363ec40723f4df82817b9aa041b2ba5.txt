@@ -13,7 +13,16 @@
   "purchases": [],
   "earnings": [],
   "sales": [],
-  "uploads": [],
+  "uploads": [
+    {
+      "owner": "1363ec40723f4df82817b9aa041b2ba5",
+      "kind": "avatar",
+      "mime": "image/jpeg",
+      "watermarked": false,
+      "id": "e2b04860f3b2eb49cb2bac37c2feb989",
+      "file": "media/e2b04860f3b2eb49cb2bac37c2feb989"
+    }
+  ],
   "logs": [
     {
       "id": "ef7403cd08fc35ed0f25d5c4911e2d36",
@@ -104,6 +113,15 @@
       "action": "follow_set",
       "entity": "follows",
       "item_id": "green"
+    },
+    {
+      "id": "1608087f7732e5de213e576e94678c92",
+      "time": "2026-10-04T09:17:27.886118+00:00",
+      "actor": "Pisad",
+      "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "action": "upload",
+      "entity": "media",
+      "item_id": "e2b04860f3b2eb49cb2bac37c2feb989"
     }
   ],
   "reviews": [],
