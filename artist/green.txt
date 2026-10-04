@@ -160,9 +160,9 @@
       "shipping": 5000,
       "tax": 0,
       "total": 11000,
-      "status": "pending_payment",
+      "status": "payment_review",
       "created": "2026-10-04T09:23:48.973101+00:00",
-      "slip": "",
+      "slip": "/api?action=media&id=28e7180ab563c46b68d2551d495ae9d0",
       "note": "",
       "tracking": ""
     }

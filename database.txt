@@ -571,9 +571,9 @@
       "shipping": 5000,
       "tax": 0,
       "total": 11000,
-      "status": "pending_payment",
+      "status": "payment_review",
       "created": "2026-10-04T09:23:48.973101+00:00",
-      "slip": "",
+      "slip": "/api?action=media&id=28e7180ab563c46b68d2551d495ae9d0",
       "note": "",
       "tracking": ""
     }
@@ -1980,6 +1980,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "28e7180ab563c46b68d2551d495ae9d0"
+    },
+    {
+      "id": "a64c461566cf8e9f57a9b0c6abebb2e1",
+      "time": "2026-10-04T09:24:12.761496+00:00",
+      "actor": "Pisad",
+      "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "action": "order_slip",
+      "entity": "order",
+      "item_id": "130d2e85efeeb0e9ed9449077af3ab4e"
     }
   ],
   "login_attempts": {
