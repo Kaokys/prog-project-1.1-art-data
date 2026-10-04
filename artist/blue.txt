@@ -21,7 +21,7 @@
       "height": 60.0,
       "price": 3000,
       "image": "/assets/art-1.jpg",
-      "status": "reserved",
+      "status": "approved",
       "deleted": false,
       "credit": "TheBigBlue892",
       "source_url": "https://tenor.com/view/benjamin-netanyahu-approved-gif-17723057525056256264"
@@ -343,7 +343,7 @@
       "shipping": 5000,
       "tax": 0,
       "total": 14000,
-      "status": "payment_review",
+      "status": "cancelled",
       "created": "2026-10-04T09:19:11.879217+00:00",
       "slip": "/api?action=media&id=cd412f1fb2fde49351afa0beeb85e7a6",
       "note": "",

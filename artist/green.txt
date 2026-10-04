@@ -21,7 +21,7 @@
       "height": 60.0,
       "price": 6000,
       "image": "/assets/art-2.jpg",
-      "status": "reserved",
+      "status": "approved",
       "deleted": false,
       "credit": "Rellxtra",
       "source_url": "https://tenor.com/vi/view/ben-10-ben-10-stare-gif-15409871389790827857"
@@ -125,7 +125,7 @@
       "shipping": 5000,
       "tax": 0,
       "total": 14000,
-      "status": "payment_review",
+      "status": "cancelled",
       "created": "2026-10-04T09:19:11.879217+00:00",
       "slip": "/api?action=media&id=cd412f1fb2fde49351afa0beeb85e7a6",
       "note": "",
