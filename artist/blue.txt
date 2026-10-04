@@ -169,7 +169,7 @@
       "technique": "{{1+1}}",
       "width": 123.0,
       "height": 123.0,
-      "price": 99900,
+      "price": 67676700,
       "image": "/api?action=media&id=e0f7d81538b3a58a3512b8606030a621",
       "tags": [
         "{{1+1}}"
