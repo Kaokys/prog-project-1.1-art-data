@@ -427,7 +427,7 @@
       "shipping": 5000,
       "tax": 0,
       "total": 20000,
-      "status": "shipped",
+      "status": "completed",
       "created": "2026-10-04T09:14:39.317364+00:00",
       "slip": "/api?action=media&id=6321f50b437c3b8dcf76f7745acfbb4f",
       "note": "",
@@ -1163,6 +1163,15 @@
     {
       "id": "cd377110e86a01f1c708be291a5a9cc7",
       "time": "2026-10-04T09:16:21.916310+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "order_status",
+      "entity": "order",
+      "item_id": "41da76f1824321881f534c429a89253a"
+    },
+    {
+      "id": "e47d4f719e83ab21da52059a42b8e755",
+      "time": "2026-10-04T09:16:26.479666+00:00",
       "actor": "ผู้ดูแล SILLAPA",
       "actor_id": "admin",
       "action": "order_status",

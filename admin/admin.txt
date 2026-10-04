@@ -176,6 +176,15 @@
       "action": "order_status",
       "entity": "order",
       "item_id": "41da76f1824321881f534c429a89253a"
+    },
+    {
+      "id": "e47d4f719e83ab21da52059a42b8e755",
+      "time": "2026-10-04T09:16:26.479666+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "order_status",
+      "entity": "order",
+      "item_id": "41da76f1824321881f534c429a89253a"
     }
   ],
   "reviews": [],

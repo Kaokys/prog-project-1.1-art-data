@@ -162,6 +162,16 @@
       "net": 8099,
       "settled": true,
       "name": "เบนจามินยาฮู"
+    },
+    {
+      "order_id": "41da76f1824321881f534c429a89253a",
+      "artist_id": "blue",
+      "gross": 15000,
+      "discount": 0,
+      "commission": 1500,
+      "net": 13500,
+      "settled": false,
+      "name": "เบนจามินยาฮู"
     }
   ],
   "sales": [
@@ -263,7 +273,7 @@
       "shipping": 5000,
       "tax": 0,
       "total": 20000,
-      "status": "shipped",
+      "status": "completed",
       "created": "2026-10-04T09:14:39.317364+00:00",
       "slip": "/api?action=media&id=6321f50b437c3b8dcf76f7745acfbb4f",
       "note": "",
