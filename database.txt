@@ -81,6 +81,10 @@
     "65f584e4a10b5d29f69533c81f5e7f86f6c92157bfc15466098c27129d44f7ca": {
       "user_id": "admin",
       "expires": 1793649630
+    },
+    "24db472710437df0296b2fe32b3f139770b40dcf0373d6b2587c7b5c9b070d24": {
+      "user_id": "admin",
+      "expires": 1793696892
     }
   },
   "artworks": [
@@ -916,10 +920,6 @@
     "283d818402b046ceb99204e24c259068@demo.local": {
       "count": 1,
       "start": 1791057285
-    },
-    "admin@demo.local": {
-      "count": 1,
-      "start": 1791104868
     },
     "admin@demo.local'-------": {
       "count": 1,
