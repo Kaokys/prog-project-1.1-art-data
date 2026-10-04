@@ -582,5 +582,14 @@
     "action": "like_set",
     "entity": "likes",
     "item_id": "art-2"
+  },
+  {
+    "id": "a65e2d665702331e6cd0dfa109e59c4f",
+    "time": "2026-10-04T09:15:30.847498+00:00",
+    "actor": "นักสะสมตัวอย่าง",
+    "actor_id": "customer",
+    "action": "upload",
+    "entity": "media",
+    "item_id": "6321f50b437c3b8dcf76f7745acfbb4f"
   }
 ]
