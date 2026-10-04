@@ -154,7 +154,7 @@
       "height": 60.0,
       "price": 6000,
       "image": "/assets/art-2.jpg",
-      "status": "approved",
+      "status": "reserved",
       "deleted": false,
       "credit": "Rellxtra",
       "source_url": "https://tenor.com/vi/view/ben-10-ben-10-stare-gif-15409871389790827857"
@@ -520,6 +520,41 @@
       "status": "cancelled",
       "created": "2026-10-04T09:19:11.879217+00:00",
       "slip": "/api?action=media&id=cd412f1fb2fde49351afa0beeb85e7a6",
+      "note": "",
+      "tracking": ""
+    },
+    {
+      "id": "130d2e85efeeb0e9ed9449077af3ab4e",
+      "key": "42ae577c-b892-4ccf-bce4-d7c6a51a4aad",
+      "user_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "customer_name": "Pisad",
+      "items": [
+        {
+          "id": "art-2",
+          "title": "Ben 10 Stare",
+          "artist_id": "green",
+          "price": 6000,
+          "image": "/assets/art-2.jpg",
+          "original": ""
+        }
+      ],
+      "address": {
+        "name": "ปีสาด",
+        "phone": "0000000000",
+        "line": "ตกเจ็ด/67",
+        "district": "ปริศนา3993",
+        "province": "แดง30939",
+        "postal": "99999"
+      },
+      "code": "",
+      "subtotal": 6000,
+      "discount": 0,
+      "shipping": 5000,
+      "tax": 0,
+      "total": 11000,
+      "status": "pending_payment",
+      "created": "2026-10-04T09:23:48.973101+00:00",
+      "slip": "",
       "note": "",
       "tracking": ""
     }
@@ -1863,6 +1898,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "3a5bd78f2ca8b71765972bb5b91cb28c"
+    },
+    {
+      "id": "4ee5a7ebfaa8918e7004a5de9a40acc9",
+      "time": "2026-10-04T09:23:48.973138+00:00",
+      "actor": "Pisad",
+      "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "action": "create",
+      "entity": "order",
+      "item_id": "130d2e85efeeb0e9ed9449077af3ab4e"
     }
   ],
   "login_attempts": {
