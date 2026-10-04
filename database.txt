@@ -333,7 +333,7 @@
       ],
       "id": "1031dfe29640b4f9e57ee50ab0a6915d",
       "artist_id": "blue",
-      "status": "reserved",
+      "status": "sold",
       "deleted": false,
       "note": ""
     },
@@ -638,7 +638,7 @@
       "shipping": 5000,
       "tax": 0,
       "total": 72700,
-      "status": "payment_review",
+      "status": "paid",
       "created": "2026-10-04T10:35:02.631803+00:00",
       "slip": "/api?action=media&id=64ca83028534cc813db782544090589a",
       "note": "",
@@ -2279,6 +2279,15 @@
       "actor": "นักสะสมตัวอย่าง",
       "actor_id": "customer",
       "action": "order_slip",
+      "entity": "order",
+      "item_id": "e6a608e7474eadfc24f12d342057675b"
+    },
+    {
+      "id": "c422355c69e52c113c3ac00552279d31",
+      "time": "2026-10-04T10:37:21.350602+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "order_status",
       "entity": "order",
       "item_id": "e6a608e7474eadfc24f12d342057675b"
     }

@@ -156,7 +156,7 @@
       ],
       "id": "1031dfe29640b4f9e57ee50ab0a6915d",
       "artist_id": "blue",
-      "status": "reserved",
+      "status": "sold",
       "deleted": false,
       "note": ""
     },
@@ -417,7 +417,7 @@
       "shipping": 5000,
       "tax": 0,
       "total": 72700,
-      "status": "payment_review",
+      "status": "paid",
       "created": "2026-10-04T10:35:02.631803+00:00",
       "slip": "/api?action=media&id=64ca83028534cc813db782544090589a",
       "note": "",
