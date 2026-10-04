@@ -231,6 +231,15 @@
       "action": "order_status",
       "entity": "order",
       "item_id": "62f752738f39ffc97ed26a5860bce7f2"
+    },
+    {
+      "id": "1b2175f53d66b75fbf085d36c075c107",
+      "time": "2026-10-04T09:21:30.954324+00:00",
+      "actor": "Pisad",
+      "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "action": "like_set",
+      "entity": "likes",
+      "item_id": "29d81144070005499bbac9d4b01b3381"
     }
   ],
   "reviews": [],
@@ -241,6 +250,10 @@
     },
     {
       "art_id": "art-2",
+      "user_id": "1363ec40723f4df82817b9aa041b2ba5"
+    },
+    {
+      "art_id": "29d81144070005499bbac9d4b01b3381",
       "user_id": "1363ec40723f4df82817b9aa041b2ba5"
     }
   ],
