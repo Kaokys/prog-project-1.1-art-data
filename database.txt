@@ -132,6 +132,10 @@
     "bfd8b25f9e4f1983eeb7f34ef1b87ff004843f2e079f037769b4f037ca130627": {
       "user_id": "customer",
       "expires": 1793701924
+    },
+    "edbecd7000119a4f3abd1dada3dcae3d470b05d1d09b63f175847d2a8a4a335c": {
+      "user_id": "customer",
+      "expires": 1793701940
     }
   },
   "artworks": [
