@@ -72,8 +72,9 @@
       "password": "03f3089d30f48a4d1f584bcec33e0fd3:55f133a87f05a43eca11275f74e482a2568752af46893e383659611ffeb4c216",
       "role": "customer",
       "active": true,
-      "bio": "",
-      "avatar": ""
+      "bio": "Narok67",
+      "avatar": "/api?action=media&id=e2b04860f3b2eb49cb2bac37c2feb989",
+      "artist_requested": true
     }
   ],
   "sessions": {
@@ -1192,6 +1193,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "e2b04860f3b2eb49cb2bac37c2feb989"
+    },
+    {
+      "id": "9e0943514a18a98a7dca05c86ebf3a08",
+      "time": "2026-10-04T09:17:29.853391+00:00",
+      "actor": "Pisad",
+      "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "action": "update",
+      "entity": "profile",
+      "item_id": "1363ec40723f4df82817b9aa041b2ba5"
     }
   ],
   "login_attempts": {
