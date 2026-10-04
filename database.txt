@@ -321,8 +321,9 @@
       ],
       "id": "1031dfe29640b4f9e57ee50ab0a6915d",
       "artist_id": "blue",
-      "status": "pending",
-      "deleted": false
+      "status": "approved",
+      "deleted": false,
+      "note": ""
     }
   ],
   "orders": [
@@ -1989,6 +1990,15 @@
       "action": "order_slip",
       "entity": "order",
       "item_id": "130d2e85efeeb0e9ed9449077af3ab4e"
+    },
+    {
+      "id": "5d48b53cea7dd7d18ab4da91755cfbd8",
+      "time": "2026-10-04T09:25:06.921024+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "art_review",
+      "entity": "artwork",
+      "item_id": "1031dfe29640b4f9e57ee50ab0a6915d"
     }
   ],
   "login_attempts": {
