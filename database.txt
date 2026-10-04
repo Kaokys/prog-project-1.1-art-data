@@ -1068,6 +1068,15 @@
       "action": "follow_set",
       "entity": "follows",
       "item_id": "green"
+    },
+    {
+      "id": "05247e34dbcc04119d944f3d2da2bd9c",
+      "time": "2026-10-04T09:15:10.772311+00:00",
+      "actor": "Pisad",
+      "actor_id": "1363ec40723f4df82817b9aa041b2ba5",
+      "action": "follow_set",
+      "entity": "follows",
+      "item_id": "green"
     }
   ],
   "login_attempts": {
@@ -1108,10 +1117,6 @@
     },
     {
       "artist_id": "blue",
-      "user_id": "1363ec40723f4df82817b9aa041b2ba5"
-    },
-    {
-      "artist_id": "green",
       "user_id": "1363ec40723f4df82817b9aa041b2ba5"
     }
   ],
