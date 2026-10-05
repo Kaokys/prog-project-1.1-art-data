@@ -20,11 +20,14 @@
       "width": 60.0,
       "height": 60.0,
       "price": 3000,
-      "image": "/assets/art-1.jpg",
+      "image": "/assets/open-art-1.jpg",
       "status": "approved",
       "deleted": false,
-      "credit": "TheBigBlue892",
-      "source_url": "https://tenor.com/view/benjamin-netanyahu-approved-gif-17723057525056256264"
+      "credit": "Vincent van Gogh",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436535",
+      "watermarked": false,
+      "source_title": "Wheat Field with Cypresses",
+      "license": "CC0 1.0 / Public Domain"
     },
     {
       "id": "art-3",
@@ -36,11 +39,14 @@
       "width": 60.0,
       "height": 60.0,
       "price": 9000,
-      "image": "/assets/art-3.jpg",
+      "image": "/assets/open-art-3.jpg",
       "status": "sold",
       "deleted": false,
-      "credit": "omamnz",
-      "source_url": "https://tenor.com/view/benjamin-netanyahu-dance-benjamin-netanyahu-dance-gif-17830850143863215782"
+      "credit": "Vincent van Gogh",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436528",
+      "watermarked": false,
+      "source_title": "Irises",
+      "license": "CC0 1.0 / Public Domain"
     },
     {
       "id": "art-5",
@@ -52,11 +58,14 @@
       "width": 60.0,
       "height": 60.0,
       "price": 15000,
-      "image": "/assets/art-5.jpg",
+      "image": "/assets/open-art-5.jpg",
       "status": "sold",
       "deleted": false,
-      "credit": "WiiGalaxy",
-      "source_url": "https://tenor.com/view/big-yahu-tel-aviv-impressed-netanyahu-israel-gif-13606388048953703900"
+      "credit": "Paul Cézanne",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435882",
+      "watermarked": false,
+      "source_title": "Still Life with Apples and a Pot of Primroses",
+      "license": "CC0 1.0 / Public Domain"
     },
     {
       "title": "GitHub text persistence test",
@@ -66,12 +75,17 @@
       "width": 1.0,
       "height": 1.0,
       "price": 100,
-      "image": "/api?action=media&id=0fd7f8ae37ff3353cdc157fcad90ba95",
+      "image": "/assets/open-art-4.jpg",
       "id": "b78abd7b683a05f994240f8cf6eb5929",
       "artist_id": "blue",
       "status": "approved",
       "deleted": true,
-      "note": ""
+      "note": "",
+      "watermarked": false,
+      "credit": "Vincent van Gogh",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436534",
+      "source_title": "Roses",
+      "license": "CC0 1.0 / Public Domain"
     },
     {
       "title": "GitHub text persistence test",
@@ -81,12 +95,17 @@
       "width": 1.0,
       "height": 1.0,
       "price": 100,
-      "image": "/api?action=media&id=71c95518d3f3b5714d752f0cc48cf901",
+      "image": "/assets/open-art-5.jpg",
       "id": "12b7a3d18649c3efff279be1c598ef94",
       "artist_id": "blue",
       "status": "approved",
       "deleted": true,
-      "note": ""
+      "note": "",
+      "watermarked": false,
+      "credit": "Paul Cézanne",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435882",
+      "source_title": "Still Life with Apples and a Pot of Primroses",
+      "license": "CC0 1.0 / Public Domain"
     },
     {
       "title": "GitHub text persistence test",
@@ -96,12 +115,17 @@
       "width": 1.0,
       "height": 1.0,
       "price": 100,
-      "image": "/api?action=media&id=5f0ff8e1e75c32926f8abed8d2e6b6b1",
+      "image": "/assets/open-art-2.jpg",
       "id": "5d38e0858eef9ba459060a763fd192c5",
       "artist_id": "blue",
       "status": "approved",
       "deleted": true,
-      "note": ""
+      "note": "",
+      "watermarked": false,
+      "credit": "Vincent van Gogh",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436524",
+      "source_title": "Sunflowers",
+      "license": "CC0 1.0 / Public Domain"
     },
     {
       "title": "Demo approval and payment test",
@@ -111,16 +135,21 @@
       "width": 1.0,
       "height": 1.0,
       "price": 9999,
-      "image": "/api?action=media&id=c7348880e1e69a7455baeaafeda96b41",
+      "image": "/assets/open-art-4.jpg",
       "id": "29d81144070005499bbac9d4b01b3381",
       "artist_id": "blue",
       "status": "sold",
       "deleted": false,
-      "note": ""
+      "note": "",
+      "watermarked": false,
+      "credit": "Vincent van Gogh",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436534",
+      "source_title": "Roses",
+      "license": "CC0 1.0 / Public Domain"
     },
     {
-      "watermarked": true,
-      "original": "/api?action=media&id=6a7bdde252703b8bf36f9af46a347367",
+      "watermarked": false,
+      "original": "/api?action=media&id=b70c9f25e1176a5455c443e462c3d938",
       "title": "Blue Meme — Digital Edition",
       "description": "ผลงานสาธิตพร้อมไฟล์ต้นฉบับและภาพตัวอย่างลายน้ำ",
       "category": "งานศิลปะ",
@@ -128,7 +157,7 @@
       "width": 30.0,
       "height": 40.0,
       "price": 9999,
-      "image": "/api?action=media&id=82608ab90ca9d13d313e1f84842e9cb5",
+      "image": "/assets/open-art-3.jpg",
       "tags": [
         "blue",
         "meme",
@@ -138,11 +167,15 @@
       "artist_id": "blue",
       "status": "sold",
       "deleted": false,
-      "note": ""
+      "note": "",
+      "credit": "Vincent van Gogh",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436528",
+      "source_title": "Irises",
+      "license": "CC0 1.0 / Public Domain"
     },
     {
-      "watermarked": true,
-      "original": "/api?action=media&id=1a24e73b80d1c7ecb5cffdd278f611bd",
+      "watermarked": false,
+      "original": "/api?action=media&id=1d1193dc5c6ce056092567724fb19ec7",
       "title": "ยิงหัว",
       "description": "ภาพวินาทีประวัติศาสตร์อาเซ็นนอลที่เดือดที่สุดในปี 2026",
       "category": "งานศิลปะ",
@@ -150,7 +183,7 @@
       "width": 677.0,
       "height": 877.0,
       "price": 67700,
-      "image": "/api?action=media&id=e7f5fc6e7612c5428b9e48e17cb8175c",
+      "image": "/assets/open-art-5.jpg",
       "tags": [
         "roblox"
       ],
@@ -158,11 +191,15 @@
       "artist_id": "blue",
       "status": "sold",
       "deleted": false,
-      "note": ""
+      "note": "",
+      "credit": "Paul Cézanne",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435882",
+      "source_title": "Still Life with Apples and a Pot of Primroses",
+      "license": "CC0 1.0 / Public Domain"
     },
     {
-      "watermarked": true,
-      "original": "/api?action=media&id=d38b6624f270d87dbbcdb71169697574",
+      "watermarked": false,
+      "original": "/api?action=media&id=64ddc18a36f5532c5a73d1ddc1197b13",
       "title": "โหดที่สุด {{1+1}}",
       "description": "{{1+1}}",
       "category": "งานศิลปะ",
@@ -170,7 +207,7 @@
       "width": 123.0,
       "height": 123.0,
       "price": 999900,
-      "image": "/api?action=media&id=e0f7d81538b3a58a3512b8606030a621",
+      "image": "/assets/open-art-3.jpg",
       "tags": [
         "{{1+1}}"
       ],
@@ -178,11 +215,15 @@
       "artist_id": "blue",
       "status": "approved",
       "deleted": true,
-      "note": ""
+      "note": "",
+      "credit": "Vincent van Gogh",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436528",
+      "source_title": "Irises",
+      "license": "CC0 1.0 / Public Domain"
     },
     {
-      "watermarked": true,
-      "original": "/api?action=media&id=b1af4367f7d7883e7c9463ee2a30b03c",
+      "watermarked": false,
+      "original": "/api?action=media&id=5eaeac96c8d0b0fe30f69844f40fdf87",
       "title": "โกโรโกโส",
       "description": "โกโรโกโส",
       "category": "งานศิลปะ",
@@ -190,7 +231,7 @@
       "width": 677.0,
       "height": 3.0,
       "price": 8485100,
-      "image": "/api?action=media&id=b576423829a775f6ebb571621ccf5be0",
+      "image": "/assets/open-art-5.jpg",
       "tags": [
         "โกโรโกโส"
       ],
@@ -198,7 +239,11 @@
       "artist_id": "blue",
       "status": "approved",
       "deleted": false,
-      "note": ""
+      "note": "",
+      "credit": "Paul Cézanne",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435882",
+      "source_title": "Still Life with Apples and a Pot of Primroses",
+      "license": "CC0 1.0 / Public Domain"
     }
   ],
   "purchases": [],
@@ -246,7 +291,7 @@
           "title": "Demo approval and payment test",
           "artist_id": "blue",
           "price": 9999,
-          "image": "/api?action=media&id=c7348880e1e69a7455baeaafeda96b41"
+          "image": "/assets/open-art-4.jpg"
         }
       ],
       "address": {
@@ -280,8 +325,8 @@
           "title": "Blue Meme — Digital Edition",
           "artist_id": "blue",
           "price": 9999,
-          "image": "/api?action=media&id=82608ab90ca9d13d313e1f84842e9cb5",
-          "original": "/api?action=media&id=6a7bdde252703b8bf36f9af46a347367"
+          "image": "/assets/open-art-3.jpg",
+          "original": "/api?action=media&id=b70c9f25e1176a5455c443e462c3d938"
         }
       ],
       "address": {
@@ -315,7 +360,7 @@
           "title": "Tel Aviv Impressed",
           "artist_id": "blue",
           "price": 15000,
-          "image": "/assets/art-5.jpg",
+          "image": "/assets/open-art-5.jpg",
           "original": ""
         }
       ],
@@ -350,7 +395,7 @@
           "title": "Big Yahu Dance",
           "artist_id": "blue",
           "price": 9000,
-          "image": "/assets/art-3.jpg",
+          "image": "/assets/open-art-3.jpg",
           "original": ""
         }
       ],
@@ -385,7 +430,7 @@
           "title": "Benjamin Approves",
           "artist_id": "blue",
           "price": 3000,
-          "image": "/assets/art-1.jpg",
+          "image": "/assets/open-art-1.jpg",
           "original": ""
         }
       ],
@@ -420,8 +465,8 @@
           "title": "ยิงหัว",
           "artist_id": "blue",
           "price": 67700,
-          "image": "/api?action=media&id=e7f5fc6e7612c5428b9e48e17cb8175c",
-          "original": "/api?action=media&id=1a24e73b80d1c7ecb5cffdd278f611bd"
+          "image": "/assets/open-art-5.jpg",
+          "original": "/api?action=media&id=1d1193dc5c6ce056092567724fb19ec7"
         }
       ],
       "address": {
@@ -864,6 +909,406 @@
       ],
       "id": "b1af4367f7d7883e7c9463ee2a30b03c",
       "file": "media/b1af4367f7d7883e7c9463ee2a30b03c"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "beafa95e31f8509c903fcea4986a718b",
+      "file": "media/beafa95e31f8509c903fcea4986a718b"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "6a5c3a9510b188d7edda2bab48042d2c",
+      "file": "media/6a5c3a9510b188d7edda2bab48042d2c"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "cbb43ced502a751a458f77ce9a866610",
+      "file": "media/cbb43ced502a751a458f77ce9a866610"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "4cb703ff57d6b75d2ff793dfc5690dfd",
+      "file": "media/4cb703ff57d6b75d2ff793dfc5690dfd"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "7f79c1be85844337cbefcfa8413178ea",
+      "file": "media/7f79c1be85844337cbefcfa8413178ea"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "3a4625979db12d1c233998f7cd8fa073",
+      "file": "media/3a4625979db12d1c233998f7cd8fa073"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "0d0b88100264fdfc701dff3b339cd6d4",
+      "file": "media/0d0b88100264fdfc701dff3b339cd6d4"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "401c53e5913e8f93948857871ac057e8",
+      "file": "media/401c53e5913e8f93948857871ac057e8"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "e6427918c457cc3334d23f92926a0684",
+      "file": "media/e6427918c457cc3334d23f92926a0684"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "6096fa953a7f26e34f175b7b1df9b31d",
+      "file": "media/6096fa953a7f26e34f175b7b1df9b31d"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "b6e27ce34739f7227221cc4cfe9a83f3",
+      "file": "media/b6e27ce34739f7227221cc4cfe9a83f3"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "63304b781d6ebc088f28ef02bd46b9d1",
+      "file": "media/63304b781d6ebc088f28ef02bd46b9d1"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "027e821fe20fc6990ea82fc9cd8de406",
+      "file": "media/027e821fe20fc6990ea82fc9cd8de406"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "fad509141bbfd2d0cd33c1516306fe77",
+      "file": "media/fad509141bbfd2d0cd33c1516306fe77"
+    },
+    {
+      "owner": "blue",
+      "kind": "original",
+      "mime": "image/jpeg",
+      "parts": [
+        "beafa95e31f8509c903fcea4986a718b",
+        "6a5c3a9510b188d7edda2bab48042d2c",
+        "cbb43ced502a751a458f77ce9a866610",
+        "4cb703ff57d6b75d2ff793dfc5690dfd",
+        "7f79c1be85844337cbefcfa8413178ea",
+        "3a4625979db12d1c233998f7cd8fa073",
+        "0d0b88100264fdfc701dff3b339cd6d4",
+        "401c53e5913e8f93948857871ac057e8",
+        "e6427918c457cc3334d23f92926a0684",
+        "6096fa953a7f26e34f175b7b1df9b31d",
+        "b6e27ce34739f7227221cc4cfe9a83f3",
+        "63304b781d6ebc088f28ef02bd46b9d1",
+        "027e821fe20fc6990ea82fc9cd8de406",
+        "fad509141bbfd2d0cd33c1516306fe77"
+      ],
+      "license": "CC0 1.0 / Public Domain",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436528",
+      "sha256": "6b851d821d565e61817250b272417c79721724f8dba2deaffe9b4c9ca4c35685",
+      "id": "b70c9f25e1176a5455c443e462c3d938",
+      "file": "media/b70c9f25e1176a5455c443e462c3d938"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "8e2805cbaca925e01334b9d90cff8d5d",
+      "file": "media/8e2805cbaca925e01334b9d90cff8d5d"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "95ae49efdf0e6802b66021109fe8f30a",
+      "file": "media/95ae49efdf0e6802b66021109fe8f30a"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "38622f08a606ad9022360c4a3e186d8f",
+      "file": "media/38622f08a606ad9022360c4a3e186d8f"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "941572b10ab73569e4521c032c169816",
+      "file": "media/941572b10ab73569e4521c032c169816"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "c1c8235e2cd94da3de05e96ee757d3e9",
+      "file": "media/c1c8235e2cd94da3de05e96ee757d3e9"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "06452544c7772a3516304278d9beb347",
+      "file": "media/06452544c7772a3516304278d9beb347"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "8d65f9e0812f52d5966259cfe5371599",
+      "file": "media/8d65f9e0812f52d5966259cfe5371599"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "c3578036c22b067b3674274439ca572c",
+      "file": "media/c3578036c22b067b3674274439ca572c"
+    },
+    {
+      "owner": "blue",
+      "kind": "original",
+      "mime": "image/jpeg",
+      "parts": [
+        "8e2805cbaca925e01334b9d90cff8d5d",
+        "95ae49efdf0e6802b66021109fe8f30a",
+        "38622f08a606ad9022360c4a3e186d8f",
+        "941572b10ab73569e4521c032c169816",
+        "c1c8235e2cd94da3de05e96ee757d3e9",
+        "06452544c7772a3516304278d9beb347",
+        "8d65f9e0812f52d5966259cfe5371599",
+        "c3578036c22b067b3674274439ca572c"
+      ],
+      "license": "CC0 1.0 / Public Domain",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435882",
+      "sha256": "8336c5eab1aa753a7a6c7ad2f713d1e19802236833943b22a8cc4d9fddd404bc",
+      "id": "1d1193dc5c6ce056092567724fb19ec7",
+      "file": "media/1d1193dc5c6ce056092567724fb19ec7"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "508edcbcdc6793c1314a1ed4fc4e7727",
+      "file": "media/508edcbcdc6793c1314a1ed4fc4e7727"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "1618678fc6bd0bfe7c0b78645d99db06",
+      "file": "media/1618678fc6bd0bfe7c0b78645d99db06"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "7d10fb90c47c13eee03c779ef1501940",
+      "file": "media/7d10fb90c47c13eee03c779ef1501940"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "804b51b2cc6c7b7603749771dd9f82d1",
+      "file": "media/804b51b2cc6c7b7603749771dd9f82d1"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "12b1ba4b4ad86466afef90ec38882b41",
+      "file": "media/12b1ba4b4ad86466afef90ec38882b41"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "4fe7397776a93f887c6174df100f3af1",
+      "file": "media/4fe7397776a93f887c6174df100f3af1"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "91cc89784d2c1ed7abdeb9c11565d733",
+      "file": "media/91cc89784d2c1ed7abdeb9c11565d733"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "2ace02afc07a9102d9f4cad705f07d34",
+      "file": "media/2ace02afc07a9102d9f4cad705f07d34"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "1d63567df5e34a9b98fdfe8fecea47bd",
+      "file": "media/1d63567df5e34a9b98fdfe8fecea47bd"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "18a27374e1fb77d05e7b41177be17fde",
+      "file": "media/18a27374e1fb77d05e7b41177be17fde"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "9f3246c3b1f7a6792d0ef6d170b31878",
+      "file": "media/9f3246c3b1f7a6792d0ef6d170b31878"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "ecc599b132d3f7e2b68ff26b26b0c035",
+      "file": "media/ecc599b132d3f7e2b68ff26b26b0c035"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "141596d280a6101191ff3d726c929306",
+      "file": "media/141596d280a6101191ff3d726c929306"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "4308c43d5980b65afb5dfe81687f41d1",
+      "file": "media/4308c43d5980b65afb5dfe81687f41d1"
+    },
+    {
+      "owner": "blue",
+      "kind": "original",
+      "mime": "image/jpeg",
+      "parts": [
+        "508edcbcdc6793c1314a1ed4fc4e7727",
+        "1618678fc6bd0bfe7c0b78645d99db06",
+        "7d10fb90c47c13eee03c779ef1501940",
+        "804b51b2cc6c7b7603749771dd9f82d1",
+        "12b1ba4b4ad86466afef90ec38882b41",
+        "4fe7397776a93f887c6174df100f3af1",
+        "91cc89784d2c1ed7abdeb9c11565d733",
+        "2ace02afc07a9102d9f4cad705f07d34",
+        "1d63567df5e34a9b98fdfe8fecea47bd",
+        "18a27374e1fb77d05e7b41177be17fde",
+        "9f3246c3b1f7a6792d0ef6d170b31878",
+        "ecc599b132d3f7e2b68ff26b26b0c035",
+        "141596d280a6101191ff3d726c929306",
+        "4308c43d5980b65afb5dfe81687f41d1"
+      ],
+      "license": "CC0 1.0 / Public Domain",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436528",
+      "sha256": "6b851d821d565e61817250b272417c79721724f8dba2deaffe9b4c9ca4c35685",
+      "id": "64ddc18a36f5532c5a73d1ddc1197b13",
+      "file": "media/64ddc18a36f5532c5a73d1ddc1197b13"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "41c63a942d06270f2d809027c990b2f9",
+      "file": "media/41c63a942d06270f2d809027c990b2f9"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "0c5504cf875fa7cf40d15cf4126def7d",
+      "file": "media/0c5504cf875fa7cf40d15cf4126def7d"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "a741cbefefaa3d68d7cd9a9757224c75",
+      "file": "media/a741cbefefaa3d68d7cd9a9757224c75"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "be145e43186bb1b558cb2272ca6afc20",
+      "file": "media/be145e43186bb1b558cb2272ca6afc20"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "2a430ca4edea0558e379b78a3086a849",
+      "file": "media/2a430ca4edea0558e379b78a3086a849"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "d6195e3888121a46a2631aed53db6022",
+      "file": "media/d6195e3888121a46a2631aed53db6022"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "7175abbfb2a3b0d452e0f13cbfa6bd51",
+      "file": "media/7175abbfb2a3b0d452e0f13cbfa6bd51"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "99f221800b9167515028ce3c43401232",
+      "file": "media/99f221800b9167515028ce3c43401232"
+    },
+    {
+      "owner": "blue",
+      "kind": "original",
+      "mime": "image/jpeg",
+      "parts": [
+        "41c63a942d06270f2d809027c990b2f9",
+        "0c5504cf875fa7cf40d15cf4126def7d",
+        "a741cbefefaa3d68d7cd9a9757224c75",
+        "be145e43186bb1b558cb2272ca6afc20",
+        "2a430ca4edea0558e379b78a3086a849",
+        "d6195e3888121a46a2631aed53db6022",
+        "7175abbfb2a3b0d452e0f13cbfa6bd51",
+        "99f221800b9167515028ce3c43401232"
+      ],
+      "license": "CC0 1.0 / Public Domain",
+      "source_url": "https://www.metmuseum.org/art/collection/search/435882",
+      "sha256": "8336c5eab1aa753a7a6c7ad2f713d1e19802236833943b22a8cc4d9fddd404bc",
+      "id": "5eaeac96c8d0b0fe30f69844f40fdf87",
+      "file": "media/5eaeac96c8d0b0fe30f69844f40fdf87"
     }
   ],
   "logs": [

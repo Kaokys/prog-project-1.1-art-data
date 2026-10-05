@@ -34,7 +34,7 @@
           "title": "Ben 10 Confused",
           "artist_id": "green",
           "price": 12000,
-          "image": "/assets/art-4.jpg"
+          "image": "/assets/open-art-4.jpg"
         }
       ],
       "address": {
@@ -68,7 +68,7 @@
           "title": "Demo approval and payment test",
           "artist_id": "blue",
           "price": 9999,
-          "image": "/api?action=media&id=c7348880e1e69a7455baeaafeda96b41"
+          "image": "/assets/open-art-4.jpg"
         }
       ],
       "address": {
@@ -102,8 +102,8 @@
           "title": "Blue Meme — Digital Edition",
           "artist_id": "blue",
           "price": 9999,
-          "image": "/api?action=media&id=82608ab90ca9d13d313e1f84842e9cb5",
-          "original": "/api?action=media&id=6a7bdde252703b8bf36f9af46a347367"
+          "image": "/assets/open-art-3.jpg",
+          "original": "/api?action=media&id=b70c9f25e1176a5455c443e462c3d938"
         }
       ],
       "address": {
@@ -137,7 +137,7 @@
           "title": "Tel Aviv Impressed",
           "artist_id": "blue",
           "price": 15000,
-          "image": "/assets/art-5.jpg",
+          "image": "/assets/open-art-5.jpg",
           "original": ""
         }
       ],
@@ -172,7 +172,7 @@
           "title": "Big Yahu Dance",
           "artist_id": "blue",
           "price": 9000,
-          "image": "/assets/art-3.jpg",
+          "image": "/assets/open-art-3.jpg",
           "original": ""
         }
       ],
@@ -207,8 +207,8 @@
           "title": "ยิงหัว",
           "artist_id": "blue",
           "price": 67700,
-          "image": "/api?action=media&id=e7f5fc6e7612c5428b9e48e17cb8175c",
-          "original": "/api?action=media&id=1a24e73b80d1c7ecb5cffdd278f611bd"
+          "image": "/assets/open-art-5.jpg",
+          "original": "/api?action=media&id=1d1193dc5c6ce056092567724fb19ec7"
         }
       ],
       "address": {
