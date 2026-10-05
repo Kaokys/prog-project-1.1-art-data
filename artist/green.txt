@@ -20,14 +20,11 @@
       "width": 60.0,
       "height": 60.0,
       "price": 6000,
-      "image": "/assets/open-art-2.jpg",
+      "image": "/assets/meme-art-2.jpg",
       "status": "reserved",
       "deleted": false,
-      "credit": "Vincent van Gogh",
-      "source_url": "https://www.metmuseum.org/art/collection/search/436524",
-      "watermarked": false,
-      "source_title": "Sunflowers",
-      "license": "CC0 1.0 / Public Domain"
+      "credit": "Rellxtra",
+      "source_url": "https://tenor.com/vi/view/ben-10-ben-10-stare-gif-15409871389790827857"
     },
     {
       "id": "art-4",
@@ -39,14 +36,11 @@
       "width": 60.0,
       "height": 60.0,
       "price": 12000,
-      "image": "/assets/open-art-4.jpg",
+      "image": "/assets/meme-art-4.jpg",
       "status": "reserved",
       "deleted": false,
-      "credit": "Vincent van Gogh",
-      "source_url": "https://www.metmuseum.org/art/collection/search/436534",
-      "watermarked": false,
-      "source_title": "Roses",
-      "license": "CC0 1.0 / Public Domain"
+      "credit": "CartoonNetworkLA",
+      "source_url": "https://tenor.com/view/desconcertado-ben-ben10-parpadear-confundido-gif-24148949"
     },
     {
       "id": "art-6",
@@ -58,14 +52,11 @@
       "width": 60.0,
       "height": 60.0,
       "price": 18000,
-      "image": "/assets/open-art-6.jpg",
+      "image": "/assets/meme-art-6.jpg",
       "status": "approved",
       "deleted": false,
-      "credit": "Paul Cézanne",
-      "source_url": "https://www.metmuseum.org/art/collection/search/435871",
-      "watermarked": false,
-      "source_title": "Gardanne",
-      "license": "CC0 1.0 / Public Domain"
+      "credit": "CartoonNetworkLA",
+      "source_url": "https://tenor.com/es-419/view/huh-gwen-tennyson-ben10-what-confused-gif-16313460"
     }
   ],
   "purchases": [],
@@ -82,7 +73,7 @@
           "title": "Ben 10 Confused",
           "artist_id": "green",
           "price": 12000,
-          "image": "/assets/open-art-4.jpg"
+          "image": "/assets/meme-art-4.jpg"
         }
       ],
       "address": {
@@ -116,7 +107,7 @@
           "title": "Ben 10 Stare",
           "artist_id": "green",
           "price": 6000,
-          "image": "/assets/open-art-2.jpg",
+          "image": "/assets/meme-art-2.jpg",
           "original": ""
         }
       ],
@@ -151,7 +142,7 @@
           "title": "Ben 10 Stare",
           "artist_id": "green",
           "price": 6000,
-          "image": "/assets/open-art-2.jpg",
+          "image": "/assets/meme-art-2.jpg",
           "original": ""
         }
       ],

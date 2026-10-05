@@ -34,7 +34,7 @@
           "title": "Ben 10 Confused",
           "artist_id": "green",
           "price": 12000,
-          "image": "/assets/open-art-4.jpg"
+          "image": "/assets/meme-art-4.jpg"
         }
       ],
       "address": {
@@ -68,7 +68,7 @@
           "title": "Demo approval and payment test",
           "artist_id": "blue",
           "price": 9999,
-          "image": "/assets/open-art-4.jpg"
+          "image": "/api?action=media&id=c7348880e1e69a7455baeaafeda96b41"
         }
       ],
       "address": {
@@ -207,8 +207,8 @@
           "title": "ยิงหัว",
           "artist_id": "blue",
           "price": 67700,
-          "image": "/assets/open-art-5.jpg",
-          "original": "/api?action=media&id=1d1193dc5c6ce056092567724fb19ec7"
+          "image": "/api?action=media&id=e7f5fc6e7612c5428b9e48e17cb8175c",
+          "original": "/api?action=media&id=1a24e73b80d1c7ecb5cffdd278f611bd"
         }
       ],
       "address": {

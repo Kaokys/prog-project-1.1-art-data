@@ -172,14 +172,11 @@
       "width": 60.0,
       "height": 60.0,
       "price": 6000,
-      "image": "/assets/open-art-2.jpg",
+      "image": "/assets/meme-art-2.jpg",
       "status": "reserved",
       "deleted": false,
-      "credit": "Vincent van Gogh",
-      "source_url": "https://www.metmuseum.org/art/collection/search/436524",
-      "watermarked": false,
-      "source_title": "Sunflowers",
-      "license": "CC0 1.0 / Public Domain"
+      "credit": "Rellxtra",
+      "source_url": "https://tenor.com/vi/view/ben-10-ben-10-stare-gif-15409871389790827857"
     },
     {
       "id": "art-3",
@@ -210,14 +207,11 @@
       "width": 60.0,
       "height": 60.0,
       "price": 12000,
-      "image": "/assets/open-art-4.jpg",
+      "image": "/assets/meme-art-4.jpg",
       "status": "reserved",
       "deleted": false,
-      "credit": "Vincent van Gogh",
-      "source_url": "https://www.metmuseum.org/art/collection/search/436534",
-      "watermarked": false,
-      "source_title": "Roses",
-      "license": "CC0 1.0 / Public Domain"
+      "credit": "CartoonNetworkLA",
+      "source_url": "https://tenor.com/view/desconcertado-ben-ben10-parpadear-confundido-gif-24148949"
     },
     {
       "id": "art-5",
@@ -248,14 +242,11 @@
       "width": 60.0,
       "height": 60.0,
       "price": 18000,
-      "image": "/assets/open-art-6.jpg",
+      "image": "/assets/meme-art-6.jpg",
       "status": "approved",
       "deleted": false,
-      "credit": "Paul Cézanne",
-      "source_url": "https://www.metmuseum.org/art/collection/search/435871",
-      "watermarked": false,
-      "source_title": "Gardanne",
-      "license": "CC0 1.0 / Public Domain"
+      "credit": "CartoonNetworkLA",
+      "source_url": "https://tenor.com/es-419/view/huh-gwen-tennyson-ben10-what-confused-gif-16313460"
     },
     {
       "title": "GitHub text persistence test",
@@ -265,17 +256,12 @@
       "width": 1.0,
       "height": 1.0,
       "price": 100,
-      "image": "/assets/open-art-4.jpg",
+      "image": "/api?action=media&id=0fd7f8ae37ff3353cdc157fcad90ba95",
       "id": "b78abd7b683a05f994240f8cf6eb5929",
       "artist_id": "blue",
       "status": "approved",
       "deleted": true,
-      "note": "",
-      "watermarked": false,
-      "credit": "Vincent van Gogh",
-      "source_url": "https://www.metmuseum.org/art/collection/search/436534",
-      "source_title": "Roses",
-      "license": "CC0 1.0 / Public Domain"
+      "note": ""
     },
     {
       "title": "GitHub text persistence test",
@@ -285,17 +271,12 @@
       "width": 1.0,
       "height": 1.0,
       "price": 100,
-      "image": "/assets/open-art-5.jpg",
+      "image": "/api?action=media&id=71c95518d3f3b5714d752f0cc48cf901",
       "id": "12b7a3d18649c3efff279be1c598ef94",
       "artist_id": "blue",
       "status": "approved",
       "deleted": true,
-      "note": "",
-      "watermarked": false,
-      "credit": "Paul Cézanne",
-      "source_url": "https://www.metmuseum.org/art/collection/search/435882",
-      "source_title": "Still Life with Apples and a Pot of Primroses",
-      "license": "CC0 1.0 / Public Domain"
+      "note": ""
     },
     {
       "title": "GitHub text persistence test",
@@ -305,17 +286,12 @@
       "width": 1.0,
       "height": 1.0,
       "price": 100,
-      "image": "/assets/open-art-2.jpg",
+      "image": "/api?action=media&id=5f0ff8e1e75c32926f8abed8d2e6b6b1",
       "id": "5d38e0858eef9ba459060a763fd192c5",
       "artist_id": "blue",
       "status": "approved",
       "deleted": true,
-      "note": "",
-      "watermarked": false,
-      "credit": "Vincent van Gogh",
-      "source_url": "https://www.metmuseum.org/art/collection/search/436524",
-      "source_title": "Sunflowers",
-      "license": "CC0 1.0 / Public Domain"
+      "note": ""
     },
     {
       "title": "Demo approval and payment test",
@@ -325,17 +301,12 @@
       "width": 1.0,
       "height": 1.0,
       "price": 9999,
-      "image": "/assets/open-art-4.jpg",
+      "image": "/api?action=media&id=c7348880e1e69a7455baeaafeda96b41",
       "id": "29d81144070005499bbac9d4b01b3381",
       "artist_id": "blue",
       "status": "sold",
       "deleted": false,
-      "note": "",
-      "watermarked": false,
-      "credit": "Vincent van Gogh",
-      "source_url": "https://www.metmuseum.org/art/collection/search/436534",
-      "source_title": "Roses",
-      "license": "CC0 1.0 / Public Domain"
+      "note": ""
     },
     {
       "watermarked": false,
@@ -364,8 +335,8 @@
       "license": "CC0 1.0 / Public Domain"
     },
     {
-      "watermarked": false,
-      "original": "/api?action=media&id=1d1193dc5c6ce056092567724fb19ec7",
+      "watermarked": true,
+      "original": "/api?action=media&id=1a24e73b80d1c7ecb5cffdd278f611bd",
       "title": "ยิงหัว",
       "description": "ภาพวินาทีประวัติศาสตร์อาเซ็นนอลที่เดือดที่สุดในปี 2026",
       "category": "งานศิลปะ",
@@ -373,7 +344,7 @@
       "width": 677.0,
       "height": 877.0,
       "price": 67700,
-      "image": "/assets/open-art-5.jpg",
+      "image": "/api?action=media&id=e7f5fc6e7612c5428b9e48e17cb8175c",
       "tags": [
         "roblox"
       ],
@@ -381,15 +352,11 @@
       "artist_id": "blue",
       "status": "sold",
       "deleted": false,
-      "note": "",
-      "credit": "Paul Cézanne",
-      "source_url": "https://www.metmuseum.org/art/collection/search/435882",
-      "source_title": "Still Life with Apples and a Pot of Primroses",
-      "license": "CC0 1.0 / Public Domain"
+      "note": ""
     },
     {
-      "watermarked": false,
-      "original": "/api?action=media&id=afe21c821f8767347a8bcbabe8419e9d",
+      "watermarked": true,
+      "original": "/api?action=media&id=d38b6624f270d87dbbcdb71169697574",
       "title": "โหดที่สุด {{1+1}}",
       "description": "{{1+1}}",
       "category": "งานศิลปะ",
@@ -397,7 +364,7 @@
       "width": 123.0,
       "height": 123.0,
       "price": 999900,
-      "image": "/assets/open-art-3.jpg",
+      "image": "/api?action=media&id=e0f7d81538b3a58a3512b8606030a621",
       "tags": [
         "{{1+1}}"
       ],
@@ -405,15 +372,11 @@
       "artist_id": "blue",
       "status": "approved",
       "deleted": true,
-      "note": "",
-      "credit": "Vincent van Gogh",
-      "source_url": "https://www.metmuseum.org/art/collection/search/436528",
-      "source_title": "Irises",
-      "license": "CC0 1.0 / Public Domain"
+      "note": ""
     },
     {
-      "watermarked": false,
-      "original": "/api?action=media&id=5eaeac96c8d0b0fe30f69844f40fdf87",
+      "watermarked": true,
+      "original": "/api?action=media&id=b1af4367f7d7883e7c9463ee2a30b03c",
       "title": "โกโรโกโส",
       "description": "โกโรโกโส",
       "category": "งานศิลปะ",
@@ -421,7 +384,7 @@
       "width": 677.0,
       "height": 3.0,
       "price": 8485100,
-      "image": "/assets/open-art-5.jpg",
+      "image": "/api?action=media&id=b576423829a775f6ebb571621ccf5be0",
       "tags": [
         "โกโรโกโส"
       ],
@@ -429,11 +392,7 @@
       "artist_id": "blue",
       "status": "approved",
       "deleted": false,
-      "note": "",
-      "credit": "Paul Cézanne",
-      "source_url": "https://www.metmuseum.org/art/collection/search/435882",
-      "source_title": "Still Life with Apples and a Pot of Primroses",
-      "license": "CC0 1.0 / Public Domain"
+      "note": ""
     }
   ],
   "orders": [
@@ -448,7 +407,7 @@
           "title": "Ben 10 Confused",
           "artist_id": "green",
           "price": 12000,
-          "image": "/assets/open-art-4.jpg"
+          "image": "/assets/meme-art-4.jpg"
         }
       ],
       "address": {
@@ -482,7 +441,7 @@
           "title": "Demo approval and payment test",
           "artist_id": "blue",
           "price": 9999,
-          "image": "/assets/open-art-4.jpg"
+          "image": "/api?action=media&id=c7348880e1e69a7455baeaafeda96b41"
         }
       ],
       "address": {
@@ -629,7 +588,7 @@
           "title": "Ben 10 Stare",
           "artist_id": "green",
           "price": 6000,
-          "image": "/assets/open-art-2.jpg",
+          "image": "/assets/meme-art-2.jpg",
           "original": ""
         }
       ],
@@ -664,7 +623,7 @@
           "title": "Ben 10 Stare",
           "artist_id": "green",
           "price": 6000,
-          "image": "/assets/open-art-2.jpg",
+          "image": "/assets/meme-art-2.jpg",
           "original": ""
         }
       ],
@@ -699,8 +658,8 @@
           "title": "ยิงหัว",
           "artist_id": "blue",
           "price": 67700,
-          "image": "/assets/open-art-5.jpg",
-          "original": "/api?action=media&id=1d1193dc5c6ce056092567724fb19ec7"
+          "image": "/api?action=media&id=e7f5fc6e7612c5428b9e48e17cb8175c",
+          "original": "/api?action=media&id=1a24e73b80d1c7ecb5cffdd278f611bd"
         }
       ],
       "address": {
@@ -3070,6 +3029,141 @@
       "action": "replace_cc0_image",
       "entity": "order",
       "item_id": "3fbb1ece700f4a631803c1ba129adc6e"
+    },
+    {
+      "id": "d379201f77b082bfb3c58586dbdf7d8f",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "artwork",
+      "item_id": "art-2"
+    },
+    {
+      "id": "f8a7967264352c55c3c43eae2b5226bf",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "artwork",
+      "item_id": "art-4"
+    },
+    {
+      "id": "f5edc22178583a629296bd56296d191a",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "artwork",
+      "item_id": "art-6"
+    },
+    {
+      "id": "69deb1cf01d4d1309d6fbab83a878ed0",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "artwork",
+      "item_id": "b78abd7b683a05f994240f8cf6eb5929"
+    },
+    {
+      "id": "817bae8711369ef674abb3090901ebda",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "artwork",
+      "item_id": "12b7a3d18649c3efff279be1c598ef94"
+    },
+    {
+      "id": "7f0d6f747714a26a67f9610473587d73",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "artwork",
+      "item_id": "5d38e0858eef9ba459060a763fd192c5"
+    },
+    {
+      "id": "736ff263b95587b7a9d388a7a41e6c43",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "artwork",
+      "item_id": "29d81144070005499bbac9d4b01b3381"
+    },
+    {
+      "id": "1e4ba3cb1c9d016d543ab044802cdc9c",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "artwork",
+      "item_id": "1031dfe29640b4f9e57ee50ab0a6915d"
+    },
+    {
+      "id": "7cc4d15930ca7d83ef468ab4c3e6d31a",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "artwork",
+      "item_id": "b265ef76fdbec58ffd5268c768ab5177"
+    },
+    {
+      "id": "aaefc1eafcea21e6cc8103ace6c45c3a",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "artwork",
+      "item_id": "4dc9edb062529ff67076b1b7b9420765"
+    },
+    {
+      "id": "07c79deb9320cd63640d2cd605a1a6fa",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "order",
+      "item_id": "e0b056ef7cb58115ccc41186731e11a6"
+    },
+    {
+      "id": "19d52daf329b637c75043af8033b61f1",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "order",
+      "item_id": "d08aba0fcc24ab2f4f2d49dd4877a469"
+    },
+    {
+      "id": "af2e7b4af77764cf3baf08dba075d649",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "order",
+      "item_id": "62f752738f39ffc97ed26a5860bce7f2"
+    },
+    {
+      "id": "bda51fc891836fdfede10bb7a3d284d3",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "order",
+      "item_id": "130d2e85efeeb0e9ed9449077af3ab4e"
+    },
+    {
+      "id": "05c02f5b741ba66ddfd1820fa2de1731",
+      "time": "2026-10-05T17:17:05.547365+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "restore_unrelated_image",
+      "entity": "order",
+      "item_id": "e6a608e7474eadfc24f12d342057675b"
     }
   ],
   "login_attempts": {
