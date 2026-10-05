@@ -149,7 +149,7 @@
     },
     {
       "watermarked": false,
-      "original": "/api?action=media&id=b70c9f25e1176a5455c443e462c3d938",
+      "original": "/api?action=media&id=a019c21c94739baad50e0cc65e66a12b",
       "title": "Blue Meme — Digital Edition",
       "description": "ผลงานสาธิตพร้อมไฟล์ต้นฉบับและภาพตัวอย่างลายน้ำ",
       "category": "งานศิลปะ",
@@ -199,7 +199,7 @@
     },
     {
       "watermarked": false,
-      "original": "/api?action=media&id=64ddc18a36f5532c5a73d1ddc1197b13",
+      "original": "/api?action=media&id=afe21c821f8767347a8bcbabe8419e9d",
       "title": "โหดที่สุด {{1+1}}",
       "description": "{{1+1}}",
       "category": "งานศิลปะ",
@@ -326,7 +326,7 @@
           "artist_id": "blue",
           "price": 9999,
           "image": "/assets/open-art-3.jpg",
-          "original": "/api?action=media&id=b70c9f25e1176a5455c443e462c3d938"
+          "original": "/api?action=media&id=a019c21c94739baad50e0cc65e66a12b"
         }
       ],
       "address": {
@@ -1309,6 +1309,50 @@
       "sha256": "8336c5eab1aa753a7a6c7ad2f713d1e19802236833943b22a8cc4d9fddd404bc",
       "id": "5eaeac96c8d0b0fe30f69844f40fdf87",
       "file": "media/5eaeac96c8d0b0fe30f69844f40fdf87"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "87952b1b8ee3565ba85d7d7aa701755e",
+      "file": "media/87952b1b8ee3565ba85d7d7aa701755e"
+    },
+    {
+      "owner": "blue",
+      "kind": "original",
+      "mime": "image/jpeg",
+      "parts": [
+        "87952b1b8ee3565ba85d7d7aa701755e"
+      ],
+      "license": "CC0 1.0 / Public Domain",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436528",
+      "sha256": "2df23777df020586fddefd46891b24ae5eda2094b6b2e5d03a12c236eed4f248",
+      "byte_length": 128794,
+      "download_source_url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP346474.jpg",
+      "id": "a019c21c94739baad50e0cc65e66a12b",
+      "file": "media/a019c21c94739baad50e0cc65e66a12b"
+    },
+    {
+      "owner": "blue",
+      "kind": "original_part",
+      "mime": "application/octet-stream",
+      "id": "6a341a589719b9ab9502589ac005ae2d",
+      "file": "media/6a341a589719b9ab9502589ac005ae2d"
+    },
+    {
+      "owner": "blue",
+      "kind": "original",
+      "mime": "image/jpeg",
+      "parts": [
+        "6a341a589719b9ab9502589ac005ae2d"
+      ],
+      "license": "CC0 1.0 / Public Domain",
+      "source_url": "https://www.metmuseum.org/art/collection/search/436528",
+      "sha256": "2df23777df020586fddefd46891b24ae5eda2094b6b2e5d03a12c236eed4f248",
+      "byte_length": 128794,
+      "download_source_url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP346474.jpg",
+      "id": "afe21c821f8767347a8bcbabe8419e9d",
+      "file": "media/afe21c821f8767347a8bcbabe8419e9d"
     }
   ],
   "logs": [

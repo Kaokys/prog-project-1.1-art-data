@@ -1599,5 +1599,32 @@
     "action": "replace_cc0_image",
     "entity": "settings",
     "item_id": "poster"
+  },
+  {
+    "id": "3affd3b2621dfad539dcbbe85660b6c5",
+    "time": "2026-10-05T16:25:37.287849+00:00",
+    "actor": "ผู้ดูแล SILLAPA",
+    "actor_id": "admin",
+    "action": "replace_cc0_image",
+    "entity": "artwork",
+    "item_id": "8bf1e80aefd6dbd6f042c0b581bde440"
+  },
+  {
+    "id": "80dfad66f0306946caadbb6f210d368d",
+    "time": "2026-10-05T16:25:37.287849+00:00",
+    "actor": "ผู้ดูแล SILLAPA",
+    "actor_id": "admin",
+    "action": "replace_cc0_image",
+    "entity": "artwork",
+    "item_id": "b265ef76fdbec58ffd5268c768ab5177"
+  },
+  {
+    "id": "766c3b3bedab61f9731d7b37635d1ab8",
+    "time": "2026-10-05T16:25:37.287849+00:00",
+    "actor": "ผู้ดูแล SILLAPA",
+    "actor_id": "admin",
+    "action": "replace_cc0_image",
+    "entity": "order",
+    "item_id": "3fbb1ece700f4a631803c1ba129adc6e"
   }
 ]
