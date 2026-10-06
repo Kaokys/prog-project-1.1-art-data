@@ -53,7 +53,7 @@
       "height": 60.0,
       "price": 18000,
       "image": "/assets/meme-art-6.jpg",
-      "status": "approved",
+      "status": "reserved",
       "deleted": false,
       "credit": "CartoonNetworkLA",
       "source_url": "https://tenor.com/es-419/view/huh-gwen-tennyson-ben10-what-confused-gif-16313460"
@@ -163,6 +163,41 @@
       "status": "payment_review",
       "created": "2026-10-04T09:23:48.973101+00:00",
       "slip": "/api?action=media&id=28e7180ab563c46b68d2551d495ae9d0",
+      "note": "",
+      "tracking": ""
+    },
+    {
+      "id": "5673bd177a91e9b7880ae5702ea58345",
+      "key": "a0b1ac31-32b7-4dd8-8781-582a4bddeaf1",
+      "user_id": "admin",
+      "customer_name": "ผู้ดูแล SILLAPA",
+      "items": [
+        {
+          "id": "art-6",
+          "title": "Gwen Huh?",
+          "artist_id": "green",
+          "price": 18000,
+          "image": "/assets/meme-art-6.jpg",
+          "original": ""
+        }
+      ],
+      "address": {
+        "name": "Kao",
+        "phone": "0123456789",
+        "line": "67/67",
+        "district": "six",
+        "province": "seven",
+        "postal": "12345"
+      },
+      "code": "",
+      "subtotal": 18000,
+      "discount": 0,
+      "shipping": 5000,
+      "tax": 0,
+      "total": 23000,
+      "status": "pending_payment",
+      "created": "2026-10-06T03:54:53.760921+00:00",
+      "slip": "",
       "note": "",
       "tracking": ""
     }

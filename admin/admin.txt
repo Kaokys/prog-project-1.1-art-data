@@ -10,7 +10,43 @@
     "password_hash": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998"
   },
   "artworks": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "id": "5673bd177a91e9b7880ae5702ea58345",
+      "key": "a0b1ac31-32b7-4dd8-8781-582a4bddeaf1",
+      "user_id": "admin",
+      "customer_name": "ผู้ดูแล SILLAPA",
+      "items": [
+        {
+          "id": "art-6",
+          "title": "Gwen Huh?",
+          "artist_id": "green",
+          "price": 18000,
+          "image": "/assets/meme-art-6.jpg",
+          "original": ""
+        }
+      ],
+      "address": {
+        "name": "Kao",
+        "phone": "0123456789",
+        "line": "67/67",
+        "district": "six",
+        "province": "seven",
+        "postal": "12345"
+      },
+      "code": "",
+      "subtotal": 18000,
+      "discount": 0,
+      "shipping": 5000,
+      "tax": 0,
+      "total": 23000,
+      "status": "pending_payment",
+      "created": "2026-10-06T03:54:53.760921+00:00",
+      "slip": "",
+      "note": "",
+      "tracking": ""
+    }
+  ],
   "earnings": [],
   "sales": [],
   "uploads": [],
@@ -689,6 +725,15 @@
       "action": "follow_set",
       "entity": "follows",
       "item_id": "blue"
+    },
+    {
+      "id": "adf4e70fa4bae6b0104c9647f9db6aba",
+      "time": "2026-10-06T03:54:53.760955+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "create",
+      "entity": "order",
+      "item_id": "5673bd177a91e9b7880ae5702ea58345"
     }
   ],
   "reviews": [],
