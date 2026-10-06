@@ -1468,6 +1468,12 @@
       "sha256": "2df23777df020586fddefd46891b24ae5eda2094b6b2e5d03a12c236eed4f248",
       "byte_length": 128794,
       "download_source_url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP346474.jpg"
+    },
+    "052b8713c2042d9a26363913ff615028": {
+      "owner": "admin",
+      "kind": "slip",
+      "mime": "image/jpeg",
+      "watermarked": false
     }
   },
   "categories": [
@@ -3272,6 +3278,15 @@
       "action": "create",
       "entity": "order",
       "item_id": "5673bd177a91e9b7880ae5702ea58345"
+    },
+    {
+      "id": "a78a3030ad0fe5a5df2d1706364c6782",
+      "time": "2026-10-06T03:55:13.567634+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "upload",
+      "entity": "media",
+      "item_id": "052b8713c2042d9a26363913ff615028"
     }
   ],
   "login_attempts": {
