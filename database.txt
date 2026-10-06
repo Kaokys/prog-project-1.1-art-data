@@ -430,6 +430,25 @@
       "status": "approved",
       "deleted": false,
       "note": ""
+    },
+    {
+      "watermarked": true,
+      "original": "",
+      "title": "six",
+      "description": "comcomcocm",
+      "category": "งานศิลปะ",
+      "technique": "water color",
+      "width": 67.0,
+      "height": 67.0,
+      "price": 10000,
+      "image": "/api?action=media&id=ce3d7a773d9f7874fb1a7b453b362303",
+      "tags": [
+        "test"
+      ],
+      "id": "6cfbc26e1d990ee23351711b7afd4330",
+      "artist_id": "blue",
+      "status": "pending",
+      "deleted": false
     }
   ],
   "orders": [
@@ -3350,6 +3369,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "ce3d7a773d9f7874fb1a7b453b362303"
+    },
+    {
+      "id": "fb61d6eac774a3854be8755dc43ac434",
+      "time": "2026-10-06T03:57:38.594843+00:00",
+      "actor": "เบนจามินยาฮู",
+      "actor_id": "blue",
+      "action": "art_create",
+      "entity": "artwork",
+      "item_id": "6cfbc26e1d990ee23351711b7afd4330"
     }
   ],
   "login_attempts": {
