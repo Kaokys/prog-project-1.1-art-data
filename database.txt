@@ -3199,6 +3199,15 @@
       "action": "register",
       "entity": "user",
       "item_id": "d2b4a4dfc07ecc7d49fff30a16b14a39"
+    },
+    {
+      "id": "722abefe6e89a887411943ec8ec0dc0f",
+      "time": "2026-10-06T03:53:12.898615+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "like_set",
+      "entity": "likes",
+      "item_id": "art-5"
     }
   ],
   "login_attempts": {
@@ -3238,6 +3247,10 @@
     {
       "art_id": "1031dfe29640b4f9e57ee50ab0a6915d",
       "user_id": "customer"
+    },
+    {
+      "art_id": "art-5",
+      "user_id": "admin"
     }
   ],
   "follows": [
