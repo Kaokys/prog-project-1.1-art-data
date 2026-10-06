@@ -51,9 +51,9 @@
       "shipping": 5000,
       "tax": 0,
       "total": 23000,
-      "status": "pending_payment",
+      "status": "payment_review",
       "created": "2026-10-06T03:54:53.760921+00:00",
-      "slip": "",
+      "slip": "/api?action=media&id=052b8713c2042d9a26363913ff615028",
       "note": "",
       "tracking": ""
     }
@@ -763,6 +763,15 @@
       "action": "upload",
       "entity": "media",
       "item_id": "052b8713c2042d9a26363913ff615028"
+    },
+    {
+      "id": "625453345a9a6cac0d8f0c6dd6ac29a1",
+      "time": "2026-10-06T03:55:15.702769+00:00",
+      "actor": "ผู้ดูแล SILLAPA",
+      "actor_id": "admin",
+      "action": "order_slip",
+      "entity": "order",
+      "item_id": "5673bd177a91e9b7880ae5702ea58345"
     }
   ],
   "reviews": [],
