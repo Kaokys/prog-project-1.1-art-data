@@ -7,6 +7,17 @@
     "avatar": "",
     "bio": "",
     "active": true,
+    "addresses": [
+      {
+        "name": "Kao",
+        "phone": "0123456789",
+        "line": "67/67",
+        "district": "six",
+        "province": "seven",
+        "postal": "12345",
+        "id": "0b8746c35f4f88e8648d7648565da82c"
+      }
+    ],
     "password_hash": "615c1a3e04511259ccbe01a127e727a6:0fd99efa47107385297a4d830848c31d7f967730eef04577daecb8e4d3cf9998"
   },
   "artworks": [],
