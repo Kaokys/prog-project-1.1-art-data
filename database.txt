@@ -86,6 +86,16 @@
           "id": "3055a3492d26a5d21adbf109d55b64a4"
         }
       ]
+    },
+    {
+      "id": "d2b4a4dfc07ecc7d49fff30a16b14a39",
+      "email": "kao@gmail.local",
+      "name": "kao",
+      "password": "6dd18e5dc0fe9f25ba20490d9454566f:558e3429ed0a9e0b9f433ebed518f019c08965e65654e5c09ebb2e13bdf0f392",
+      "role": "customer",
+      "active": true,
+      "bio": "",
+      "avatar": ""
     }
   ],
   "sessions": {
@@ -152,6 +162,10 @@
     "0299be851ef12a455b1589906b5cee18571a8359c8598bf6e9a25b3704a65f13": {
       "user_id": "admin",
       "expires": 1793812877
+    },
+    "4b452a9b9bc04f258931c0a7d4535bda478577d1b281980c1a074b880df67f27": {
+      "user_id": "d2b4a4dfc07ecc7d49fff30a16b14a39",
+      "expires": 1793850004
     }
   },
   "artworks": [
@@ -3176,6 +3190,15 @@
       "action": "restore_unrelated_image",
       "entity": "order",
       "item_id": "e6a608e7474eadfc24f12d342057675b"
+    },
+    {
+      "id": "a0966d2a84c553d754abef09ef2b6e7f",
+      "time": "2026-10-06T03:40:04.944367+00:00",
+      "actor": "kao",
+      "actor_id": "d2b4a4dfc07ecc7d49fff30a16b14a39",
+      "action": "register",
+      "entity": "user",
+      "item_id": "d2b4a4dfc07ecc7d49fff30a16b14a39"
     }
   ],
   "login_attempts": {

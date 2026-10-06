@@ -1,0 +1,31 @@
+{
+  "profile": {
+    "id": "d2b4a4dfc07ecc7d49fff30a16b14a39",
+    "email": "kao@gmail.local",
+    "name": "kao",
+    "role": "customer",
+    "active": true,
+    "bio": "",
+    "avatar": "",
+    "password_hash": "6dd18e5dc0fe9f25ba20490d9454566f:558e3429ed0a9e0b9f433ebed518f019c08965e65654e5c09ebb2e13bdf0f392"
+  },
+  "artworks": [],
+  "purchases": [],
+  "earnings": [],
+  "sales": [],
+  "uploads": [],
+  "logs": [
+    {
+      "id": "a0966d2a84c553d754abef09ef2b6e7f",
+      "time": "2026-10-06T03:40:04.944367+00:00",
+      "actor": "kao",
+      "actor_id": "d2b4a4dfc07ecc7d49fff30a16b14a39",
+      "action": "register",
+      "entity": "user",
+      "item_id": "d2b4a4dfc07ecc7d49fff30a16b14a39"
+    }
+  ],
+  "reviews": [],
+  "likes": [],
+  "follows": []
+}
